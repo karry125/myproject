@@ -1,0 +1,24 @@
+2019-03-19 22:22:44,970-loggingtest.py-DEBUG
+2019-03-19 22:22:44,995-loggingtest.py-INFO
+2019-03-19 22:22:44,995-loggingtest.py-WARNING
+2019-03-19 22:22:44,995-loggingtest.py-ERROR
+2019-03-19 22:24:43,738-wym-DEBUG-this is debug
+2019-03-19 22:24:43,768-wym-INFO-this is info
+2019-03-19 22:24:43,768-wym-WARNING-this is warning
+2019-03-19 22:24:43,768-wym-ERROR-this is error
+2019-03-19 22:25:54,102-wym-DEBUG-this is debug
+2019-03-19 22:25:54,102-wym-INFO-this is info
+2019-03-19 22:25:54,102-wym-WARNING-this is warning
+2019-03-19 22:25:54,102-wym-ERROR-this is error
+Tue, 19 Mar 2019 22:52:09-wym-DEBUG-this is debug
+Tue, 19 Mar 2019 22:52:09-wym-INFO-this is info
+Tue, 19 Mar 2019 22:52:09-wym-WARNING-this is warning
+Tue, 19 Mar 2019 22:52:09-wym-ERROR-this is error
+Wed, 20 Mar 2019 21:54:07-wym-DEBUG-this is debug
+Wed, 20 Mar 2019 21:54:07-wym-INFO-this is info
+Wed, 20 Mar 2019 21:54:07-wym-WARNING-this is warning
+Wed, 20 Mar 2019 21:54:07-wym-ERROR-this is error
+Wed, 20 Mar 2019 22:40:55-wym-DEBUG-this is debug
+Wed, 20 Mar 2019 22:40:55-wym-INFO-this is info
+Wed, 20 Mar 2019 22:40:55-wym-WARNING-this is warning
+Wed, 20 Mar 2019 22:40:55-wym-ERROR-this is error

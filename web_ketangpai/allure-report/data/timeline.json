@@ -1,0 +1,829 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-F99FSHQ",
+    "children" : [ {
+      "name" : "20236-MainThread",
+      "children" : [ {
+        "name" : "test_add_sucess_class",
+        "uid" : "2713cfaac4c3becd",
+        "parentUid" : "ea7bf19cade8c0537883023d0a9d6a60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562164718929,
+          "stop" : 1562164722342,
+          "duration" : 3413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "8119fa2d70c44c99",
+        "parentUid" : "ea7bf19cade8c0537883023d0a9d6a60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562164729788,
+          "stop" : 1562164737881,
+          "duration" : 8093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "4833ac54d81acdd8",
+        "parentUid" : "ea7bf19cade8c0537883023d0a9d6a60",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164725549,
+          "stop" : 1562164725549,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea7bf19cade8c0537883023d0a9d6a60"
+    }, {
+      "name" : "9160-MainThread",
+      "children" : [ {
+        "name" : "test_chat_fail_msg[data0]",
+        "uid" : "bfd69e360e248f08",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346487457,
+          "stop" : 1562346492979,
+          "duration" : 5522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': ' ', 'check': '私信内容不能为空'}" ]
+      }, {
+        "name" : "test_upload",
+        "uid" : "452490af65a2549c",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346521564,
+          "stop" : 1562346537773,
+          "duration" : 16209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_msg",
+        "uid" : "41a49bf7f9a52855",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562346537803,
+          "stop" : 1562346568931,
+          "duration" : 31128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chat_msg[test]",
+        "uid" : "a4a7801cca059754",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346480920,
+          "stop" : 1562346487352,
+          "duration" : 6432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test'" ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "7c4ba5cb755d8842",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346460226,
+          "stop" : 1562346464955,
+          "duration" : 4729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data1]",
+        "uid" : "3fcc6e8d9a5016af",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346500326,
+          "stop" : 1562346500582,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '', 'passwd': 'python', 'check': '账号不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data0]",
+        "uid" : "2fe94309cf73d676",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346499776,
+          "stop" : 1562346500052,
+          "duration" : 276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684720553', 'passwd': '', 'check': '密码不能为空'}" ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "a615528b667c1e14",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346502460,
+          "stop" : 1562346504766,
+          "duration" : 2306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "74ff2b60f91868bc",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346569031,
+          "stop" : 1562346571459,
+          "duration" : 2428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data2]",
+        "uid" : "a49cb282ca907daa",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346500957,
+          "stop" : 1562346501714,
+          "duration" : 757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data3]",
+        "uid" : "3e25ace05b6e0aa7",
+        "parentUid" : "279130e4f79bb659206c7b1d6fa5e7ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346501926,
+          "stop" : 1562346502154,
+          "duration" : 228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684705531', 'passwd': 'py', 'check': '请输入6-24位密码'}" ]
+      } ],
+      "uid" : "279130e4f79bb659206c7b1d6fa5e7ce"
+    }, {
+      "name" : "16424-MainThread",
+      "children" : [ {
+        "name" : "test_add_sucess_class",
+        "uid" : "ba48257d7f09d64d",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259041054,
+          "stop" : 1562259046376,
+          "duration" : 5322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chat_msg[test]",
+        "uid" : "b5ac29dc5a59ab62",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259054340,
+          "stop" : 1562259065659,
+          "duration" : 11319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test'" ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data2]",
+        "uid" : "e6510da9f026d1ef",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259118706,
+          "stop" : 1562259119759,
+          "duration" : 1053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "a9bc47832d9c063d",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259180184,
+          "stop" : 1562259183040,
+          "duration" : 2856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_upload",
+        "uid" : "4dba2bdbacb9aa95",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562259135706,
+          "stop" : 1562259149379,
+          "duration" : 13673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_msg",
+        "uid" : "2e5190acabfa6fb9",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562259149387,
+          "stop" : 1562259180109,
+          "duration" : 30722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data1]",
+        "uid" : "6d56b3740476c708",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259104665,
+          "stop" : 1562259105215,
+          "duration" : 550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '', 'passwd': 'python', 'check': '账号不能为空'}" ]
+      }, {
+        "name" : "test_chat_fail_msg[data0]",
+        "uid" : "cc5b36958fceb0a0",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562259065670,
+          "stop" : 1562259096195,
+          "duration" : 30525
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': ' ', 'check': '私信内容不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data0]",
+        "uid" : "15dcbb1d2779da12",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259103811,
+          "stop" : 1562259104440,
+          "duration" : 629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684720553', 'passwd': '', 'check': '密码不能为空'}" ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "4567a1b820f16139",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259107354,
+          "stop" : 1562259109931,
+          "duration" : 2577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data3]",
+        "uid" : "3a30bd8aa546e772",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259119956,
+          "stop" : 1562259120606,
+          "duration" : 650
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684705531', 'passwd': 'py', 'check': '请输入6-24位密码'}" ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "ec5964a5eac0a34b",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562259120782,
+          "stop" : 1562259121399,
+          "duration" : 617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data1]",
+        "uid" : "b062fd9461cc90bf",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259117924,
+          "stop" : 1562259118471,
+          "duration" : 547
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '', 'passwd': 'python', 'check': '账号不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data3]",
+        "uid" : "af07689f1584cc",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259106695,
+          "stop" : 1562259107149,
+          "duration" : 454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684705531', 'passwd': 'py', 'check': '请输入6-24位密码'}" ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data0]",
+        "uid" : "77f82ec7c2194a0a",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259117092,
+          "stop" : 1562259117746,
+          "duration" : 654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684720553', 'passwd': '', 'check': '密码不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data2]",
+        "uid" : "4924431c50fa739b",
+        "parentUid" : "6e4cb6d7a2d0aa4ad59b88502d10990f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259105484,
+          "stop" : 1562259106501,
+          "duration" : 1017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+      } ],
+      "uid" : "6e4cb6d7a2d0aa4ad59b88502d10990f"
+    }, {
+      "name" : "16908-MainThread",
+      "children" : [ {
+        "name" : "test_chat_msg[data0]",
+        "uid" : "86f6380be555851",
+        "parentUid" : "561ca97c62592ea5528e2182c92d3022",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': '', 'check': '私信内容不能为空'}" ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "35dc2fbed9d7bfd8",
+        "parentUid" : "561ca97c62592ea5528e2182c92d3022",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562255300212,
+          "stop" : 1562255302607,
+          "duration" : 2395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_upload",
+        "uid" : "f3c1d06f25be21c0",
+        "parentUid" : "561ca97c62592ea5528e2182c92d3022",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562255258678,
+          "stop" : 1562255269406,
+          "duration" : 10728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "ab9ad6285c735b17",
+        "parentUid" : "561ca97c62592ea5528e2182c92d3022",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562255224704,
+          "stop" : 1562255229760,
+          "duration" : 5056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_msg",
+        "uid" : "c05762128f46e7d9",
+        "parentUid" : "561ca97c62592ea5528e2182c92d3022",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562255269410,
+          "stop" : 1562255300132,
+          "duration" : 30722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "561ca97c62592ea5528e2182c92d3022"
+    }, {
+      "name" : "18036-MainThread",
+      "children" : [ {
+        "name" : "test_add_comment",
+        "uid" : "5d847fd331209e06",
+        "parentUid" : "c8486834bd4fe148d4f88f71d33186c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562165220124,
+          "stop" : 1562165230107,
+          "duration" : 9983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "d3da0d1ac858b484",
+        "parentUid" : "c8486834bd4fe148d4f88f71d33186c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562165209959,
+          "stop" : 1562165213585,
+          "duration" : 3626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8486834bd4fe148d4f88f71d33186c1"
+    }, {
+      "name" : "21116-MainThread",
+      "children" : [ {
+        "name" : "test_login_0_failed_by_wrong_datas",
+        "uid" : "454ef105a4899984",
+        "parentUid" : "88479f10f9e69df6fad4e425f18413d5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164406049,
+          "stop" : 1562164406049,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "3ccfa84a17e4a3f6",
+        "parentUid" : "88479f10f9e69df6fad4e425f18413d5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164406063,
+          "stop" : 1562164406063,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "41b37d4a69566604",
+        "parentUid" : "88479f10f9e69df6fad4e425f18413d5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164405929,
+          "stop" : 1562164405930,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "b980d8e3ff1342d1",
+        "parentUid" : "88479f10f9e69df6fad4e425f18413d5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164401796,
+          "stop" : 1562164403571,
+          "duration" : 1775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "a486672b41eea06c",
+        "parentUid" : "88479f10f9e69df6fad4e425f18413d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562164410144,
+          "stop" : 1562164417871,
+          "duration" : 7727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88479f10f9e69df6fad4e425f18413d5"
+    }, {
+      "name" : "17496-MainThread",
+      "children" : [ {
+        "name" : "test_add_comment",
+        "uid" : "c38b19521066265d",
+        "parentUid" : "371bbf3d947f4a2ed2c980d07a022d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562165422380,
+          "stop" : 1562165430759,
+          "duration" : 8379
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "9eed3b2e1657db05",
+        "parentUid" : "371bbf3d947f4a2ed2c980d07a022d75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562165410993,
+          "stop" : 1562165414977,
+          "duration" : 3984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "371bbf3d947f4a2ed2c980d07a022d75"
+    }, {
+      "name" : "5524-MainThread",
+      "children" : [ {
+        "name" : "test_login_2_success_login",
+        "uid" : "8c9e88d6c221a6f7",
+        "parentUid" : "82067fe772d28b8843acda223efd2098",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164538579,
+          "stop" : 1562164538579,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas",
+        "uid" : "705435097db294af",
+        "parentUid" : "82067fe772d28b8843acda223efd2098",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164538595,
+          "stop" : 1562164538595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "1388e80d9dd32902",
+        "parentUid" : "82067fe772d28b8843acda223efd2098",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164538624,
+          "stop" : 1562164538624,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "8a1dcb1c0a2420e8",
+        "parentUid" : "82067fe772d28b8843acda223efd2098",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562164542712,
+          "stop" : 1562164550384,
+          "duration" : 7672
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "75030fdb2b1ee1e9",
+        "parentUid" : "82067fe772d28b8843acda223efd2098",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164534472,
+          "stop" : 1562164536307,
+          "duration" : 1835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82067fe772d28b8843acda223efd2098"
+    }, {
+      "name" : "8984-MainThread",
+      "children" : [ {
+        "name" : "test_add_sucess_class",
+        "uid" : "970e779465ba91c2",
+        "parentUid" : "a8ec4d1ffada30c94c33b2c285ce31b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562162976459,
+          "stop" : 1562162978535,
+          "duration" : 2076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "42a125aca51263a3",
+        "parentUid" : "a8ec4d1ffada30c94c33b2c285ce31b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562162985871,
+          "stop" : 1562162990418,
+          "duration" : 4547
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas",
+        "uid" : "75281e88ad980609",
+        "parentUid" : "a8ec4d1ffada30c94c33b2c285ce31b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562162980931,
+          "stop" : 1562162980931,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "3db93f0186a65e46",
+        "parentUid" : "a8ec4d1ffada30c94c33b2c285ce31b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562162980866,
+          "stop" : 1562162980866,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "358bc027e4a0465e",
+        "parentUid" : "a8ec4d1ffada30c94c33b2c285ce31b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562162980947,
+          "stop" : 1562162980947,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8ec4d1ffada30c94c33b2c285ce31b5"
+    }, {
+      "name" : "16536-MainThread",
+      "children" : [ {
+        "name" : "test_add_msg",
+        "uid" : "b7cde7a16be56bf4",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562256486862,
+          "stop" : 1562256517639,
+          "duration" : 30777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chat_fail_msg[data0]",
+        "uid" : "f44a37d5fd122cf3",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562256430130,
+          "stop" : 1562256460750,
+          "duration" : 30620
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': ' ', 'check': '私信内容不能为空'}" ]
+      }, {
+        "name" : "test_upload",
+        "uid" : "9184082f26e612b4",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562256473969,
+          "stop" : 1562256486856,
+          "duration" : 12887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "3f5417cf99740fec",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562256517677,
+          "stop" : 1562256520080,
+          "duration" : 2403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_sucess_class",
+        "uid" : "fd6528a553a3ee84",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562256408886,
+          "stop" : 1562256413049,
+          "duration" : 4163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_chat_msg[test]",
+        "uid" : "9a8934966c6cdc62",
+        "parentUid" : "a8ffd804d43eda0f427d62849aebe6f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562256420610,
+          "stop" : 1562256430115,
+          "duration" : 9505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test'" ]
+      } ],
+      "uid" : "a8ffd804d43eda0f427d62849aebe6f5"
+    } ],
+    "uid" : "ef7bc34e24ebc36e49c3686d2249bb41"
+  } ]
+}

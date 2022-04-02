@@ -1,0 +1,54 @@
+Wed, 20 Mar 2019 21:47:11-confs-INFO-123
+2019 03 20 2019 21:48:15-confs-INFO-123
+["'2019 03 20 2019 21:50:09'-confs-INFO-123"]
+2019 03 20 2019 22:42:47-confs-INFO-123
+2019 03 20 2019 23:04:35-confs-INFO-123
+2019 03 20 2019 23:25:16-confs-INFO-123
+2019 03 20 2019 23:31:23-confs-INFO-123
+2019 03 20 2019 23:31:30-confs-INFO-123
+2019 03 20  23:36:08-confs-INFO-123
+2019 03 20  23:36:30-confs-INFO-123
+2019 03 20  23:39:06-confs-DEBUG-this is debug
+2019 03 20  23:39:06-confs-INFO-this is info
+2019 03 20  23:39:06-confs-WARNING-this is warning
+2019 03 20  23:39:06-confs-ERROR-this is error
+Wed, 20 Mar 2019  23:40:18-confs-DEBUG-this is debug
+Wed, 20 Mar 2019  23:40:18-confs-INFO-this is info
+Wed, 20 Mar 2019  23:40:18-confs-WARNING-this is warning
+Wed, 20 Mar 2019  23:40:18-confs-ERROR-this is error
+Thu, 21 Mar 2019  22:24:21-confs-DEBUG-this is debug
+Thu, 21 Mar 2019  22:24:21-confs-DEBUG-this is debug
+Thu, 21 Mar 2019  22:24:21-confs-INFO-this is info
+Thu, 21 Mar 2019  22:24:21-confs-INFO-this is info
+Thu, 21 Mar 2019  22:24:21-confs-WARNING-this is warning
+Thu, 21 Mar 2019  22:24:21-confs-WARNING-this is warning
+Thu, 21 Mar 2019  22:24:21-confs-ERROR-this is error
+Thu, 21 Mar 2019  22:24:21-confs-ERROR-this is error
+Thu, 21 Mar 2019  23:05:07-confs-INFO-88
+Thu, 21 Mar 2019  23:05:07-confs-INFO-88
+Thu, 21 Mar 2019  23:05:07-confs-DEBUG-this is debug
+Thu, 21 Mar 2019  23:05:07-confs-DEBUG-this is debug
+Thu, 21 Mar 2019  23:05:07-confs-INFO-this is info
+Thu, 21 Mar 2019  23:05:07-confs-INFO-this is info
+Thu, 21 Mar 2019  23:05:07-confs-WARNING-this is warning
+Thu, 21 Mar 2019  23:05:07-confs-WARNING-this is warning
+Thu, 21 Mar 2019  23:05:07-confs-ERROR-this is error
+Thu, 21 Mar 2019  23:05:07-confs-ERROR-this is error
+Sat, 23 Mar 2019  14:45:58-confs-INFO-wode
+Sat, 23 Mar 2019  14:45:58-confs-INFO-wode
+Sat, 23 Mar 2019  14:45:58-confs-INFO-88
+Sat, 23 Mar 2019  14:45:58-confs-INFO-88
+Sat, 23 Mar 2019  14:45:58-confs-DEBUG-this is debug
+Sat, 23 Mar 2019  14:45:58-confs-DEBUG-this is debug
+Sat, 23 Mar 2019  14:45:58-confs-INFO-this is info
+Sat, 23 Mar 2019  14:45:58-confs-INFO-this is info
+Sat, 23 Mar 2019  14:45:58-confs-WARNING-this is warning
+Sat, 23 Mar 2019  14:45:58-confs-WARNING-this is warning
+Sat, 23 Mar 2019  14:45:58-confs-ERROR-this is error
+Sat, 23 Mar 2019  14:45:58-confs-ERROR-this is error
+Sat, 23 Mar 2019  14:48:07-confs-INFO-wode
+Sat, 23 Mar 2019  14:48:07-confs-INFO-wode
+Sat, 23 Mar 2019  14:48:07-confs-INFO-88
+Sat, 23 Mar 2019  14:48:07-confs-INFO-88
+Sat, 23 Mar 2019  14:48:28-confs-INFO-wode
+Sat, 23 Mar 2019  14:48:28-confs-INFO-88

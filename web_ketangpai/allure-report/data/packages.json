@@ -1,0 +1,276 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCases",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_login_0_failed_by_wrong_datas",
+        "uid" : "705435097db294af",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164538595,
+          "stop" : 1562164538595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "4833ac54d81acdd8",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164725549,
+          "stop" : 1562164725549,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data0]",
+        "uid" : "2fe94309cf73d676",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346499776,
+          "stop" : 1562346500052,
+          "duration" : 276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684720553', 'passwd': '', 'check': '密码不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data1]",
+        "uid" : "3fcc6e8d9a5016af",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346500326,
+          "stop" : 1562346500582,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '', 'passwd': 'python', 'check': '账号不能为空'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data2]",
+        "uid" : "a49cb282ca907daa",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346500957,
+          "stop" : 1562346501714,
+          "duration" : 757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+      }, {
+        "name" : "test_login_0_failed_by_wrong_datas[data3]",
+        "uid" : "3e25ace05b6e0aa7",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346501926,
+          "stop" : 1562346502154,
+          "duration" : 228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684705531', 'passwd': 'py', 'check': '请输入6-24位密码'}" ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "a615528b667c1e14",
+        "parentUid" : "5b9bff3cc878bfbc7326d20d4563c3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346502460,
+          "stop" : 1562346504766,
+          "duration" : 2306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b9bff3cc878bfbc7326d20d4563c3d2"
+    }, {
+      "name" : "test_chat",
+      "children" : [ {
+        "name" : "test_chat_msg[data0]",
+        "uid" : "86f6380be555851",
+        "parentUid" : "3773c505e89afa768bd285d369c21632",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': '', 'check': '私信内容不能为空'}" ]
+      }, {
+        "name" : "test_chat_msg[test]",
+        "uid" : "a4a7801cca059754",
+        "parentUid" : "3773c505e89afa768bd285d369c21632",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346480920,
+          "stop" : 1562346487352,
+          "duration" : 6432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'test'" ]
+      }, {
+        "name" : "test_chat_fail_msg[data0]",
+        "uid" : "bfd69e360e248f08",
+        "parentUid" : "3773c505e89afa768bd285d369c21632",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346487457,
+          "stop" : 1562346492979,
+          "duration" : 5522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': ' ', 'check': '私信内容不能为空'}" ]
+      } ],
+      "uid" : "3773c505e89afa768bd285d369c21632"
+    }, {
+      "name" : "test_loginpai",
+      "children" : [ {
+        "name" : "test_logins_0_failed_by_wrong_datas[data0]",
+        "uid" : "77f82ec7c2194a0a",
+        "parentUid" : "39b562320ca9c4fdbea84523a0831b17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259117092,
+          "stop" : 1562259117746,
+          "duration" : 654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684720553', 'passwd': '', 'check': '密码不能为空'}" ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data1]",
+        "uid" : "b062fd9461cc90bf",
+        "parentUid" : "39b562320ca9c4fdbea84523a0831b17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259117924,
+          "stop" : 1562259118471,
+          "duration" : 547
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '', 'passwd': 'python', 'check': '账号不能为空'}" ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data2]",
+        "uid" : "e6510da9f026d1ef",
+        "parentUid" : "39b562320ca9c4fdbea84523a0831b17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259118706,
+          "stop" : 1562259119759,
+          "duration" : 1053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+      }, {
+        "name" : "test_logins_0_failed_by_wrong_datas[data3]",
+        "uid" : "3a30bd8aa546e772",
+        "parentUid" : "39b562320ca9c4fdbea84523a0831b17",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259119956,
+          "stop" : 1562259120606,
+          "duration" : 650
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'user': '18684705531', 'passwd': 'py', 'check': '请输入6-24位密码'}" ]
+      }, {
+        "name" : "test_login_2_success_login",
+        "uid" : "ec5964a5eac0a34b",
+        "parentUid" : "39b562320ca9c4fdbea84523a0831b17",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562259120782,
+          "stop" : 1562259121399,
+          "duration" : 617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "39b562320ca9c4fdbea84523a0831b17"
+    }, {
+      "name" : "test_addclass",
+      "children" : [ {
+        "name" : "test_add_sucess_class",
+        "uid" : "7c4ba5cb755d8842",
+        "parentUid" : "3b8eb62124ba110f9f4b573aa722f749",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346460226,
+          "stop" : 1562346464955,
+          "duration" : 4729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b8eb62124ba110f9f4b573aa722f749"
+    }, {
+      "name" : "test_work",
+      "children" : [ {
+        "name" : "test_upload",
+        "uid" : "452490af65a2549c",
+        "parentUid" : "69ed1661f60158f3088b27be682d5c9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346521564,
+          "stop" : 1562346537773,
+          "duration" : 16209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_msg",
+        "uid" : "41a49bf7f9a52855",
+        "parentUid" : "69ed1661f60158f3088b27be682d5c9b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1562346537803,
+          "stop" : 1562346568931,
+          "duration" : 31128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_comment",
+        "uid" : "74ff2b60f91868bc",
+        "parentUid" : "69ed1661f60158f3088b27be682d5c9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562346569031,
+          "stop" : 1562346571459,
+          "duration" : 2428
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "69ed1661f60158f3088b27be682d5c9b"
+    } ],
+    "uid" : "1dd5dae00c58193b69825e57e00d160e"
+  } ]
+}

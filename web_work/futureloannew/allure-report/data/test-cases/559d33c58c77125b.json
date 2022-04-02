@@ -1,0 +1,176 @@
+{
+  "uid" : "559d33c58c77125b",
+  "name" : "test_01",
+  "fullName" : "test_pytest#test_01",
+  "historyId" : "a4c4d5a30483921a1833f3d6d9ee122c",
+  "time" : {
+    "start" : 1561652966854,
+    "stop" : 1561652969979,
+    "duration" : 3125
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open",
+    "time" : {
+      "start" : 1561652963485,
+      "stop" : 1561652966853,
+      "duration" : 3368
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "open::0",
+    "time" : {
+      "start" : 1561652969979,
+      "stop" : 1561652972075,
+      "duration" : 2096
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "6872-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "578e454086b14ff6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561652947025,
+        "stop" : 1561652950144,
+        "duration" : 3119
+      }
+    }, {
+      "uid" : "d450931a28ac71d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561563702172,
+        "stop" : 1561563705298,
+        "duration" : 3126
+      }
+    }, {
+      "uid" : "770d665525879d36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561563582556,
+        "stop" : 1561563585680,
+        "duration" : 3124
+      }
+    }, {
+      "uid" : "b3ef3f48564fdfc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561563484986,
+        "stop" : 1561563488112,
+        "duration" : 3126
+      }
+    }, {
+      "uid" : "51884847b43b3f6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561559508820,
+        "stop" : 1561559511946,
+        "duration" : 3126
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "9ecfddb7a71ea7c4",
+        "reportUrl" : "http://localhost:8080/job/alluretest/35/allure/#testresult/9ecfddb7a71ea7c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561652947025,
+          "stop" : 1561652950144,
+          "duration" : 3119
+        }
+      }, {
+        "uid" : "e42d7d3fd1444a4a",
+        "reportUrl" : "http://localhost:8080/job/alluretest/34/allure/#testresult/e42d7d3fd1444a4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561563702172,
+          "stop" : 1561563705298,
+          "duration" : 3126
+        }
+      }, {
+        "uid" : "e27d2470a7bb5079",
+        "reportUrl" : "http://localhost:8080/job/alluretest/33/allure/#testresult/e27d2470a7bb5079",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561563702172,
+          "stop" : 1561563705298,
+          "duration" : 3126
+        }
+      }, {
+        "uid" : "7facd629b667bd8b",
+        "reportUrl" : "http://localhost:8080/job/alluretest/23/allure/#testresult/7facd629b667bd8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561559508820,
+          "stop" : 1561559511946,
+          "duration" : 3126
+        }
+      }, {
+        "uid" : "7e6afe86cee0b185",
+        "reportUrl" : "http://localhost:8080/job/alluretest/22/allure/#testresult/7e6afe86cee0b185",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561559508820,
+          "stop" : 1561559511946,
+          "duration" : 3126
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "559d33c58c77125b.json",
+  "parameterValues" : [ ]
+}

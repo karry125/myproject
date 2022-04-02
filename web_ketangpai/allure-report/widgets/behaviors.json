@@ -1,0 +1,37 @@
+{
+  "total" : 11,
+  "items" : [ {
+    "uid" : "78e5920a34c260f6b7c323b3759bfab0",
+    "name" : "聊天",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "049991b81660625755da8c6f6a34218c",
+    "name" : "作业",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "5a0b79b4f67b6b129d0d534bd85635a6",
+    "name" : "登录页面功能",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

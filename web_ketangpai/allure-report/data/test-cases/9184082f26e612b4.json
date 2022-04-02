@@ -1,0 +1,152 @@
+{
+  "uid" : "9184082f26e612b4",
+  "name" : "test_upload",
+  "fullName" : "TestCases.test_work.TestWork#test_upload",
+  "historyId" : "202890e6f82a9bdcbe059df3463f5798",
+  "time" : {
+    "start" : 1562256473969,
+    "stop" : 1562256486856,
+    "duration" : 12887
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 0\n  -1\n  +0",
+  "statusTrace" : "self = <TestCases.test_work.TestWork object at 0x00000270E87E5860>\ngo_work_detail = <PageObjects.home_detail_page.DetailPage object at 0x00000270E87E50F0>\nlogin_web = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"cd16604aa5397f04e8a4e9b6166fd9ba\")>\n\n    @allure.story(\"上传文件\")\n    def test_upload(self,go_work_detail,login_web):\n        time.sleep(2)\n        work_num=go_work_detail.check_work_list()\n        print(work_num)\n        log_num =go_work_detail.check_upload_log()\n        go_work_detail.new_upload(\"f:\\\\o.html\")\n        #login_web.refresh\n        time.sleep(2)\n        after_work_num = go_work_detail.check_work_list()\n        after_log_num = go_work_detail.check_upload_log()\n        print(work_num,log_num,after_log_num,after_work_num)\n        assert work_num+1==after_work_num\n>       assert log_num+1==after_log_num\nE       assert 1 == 0\nE         -1\nE         +0\n\nTestCases\\test_work.py:29: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562256463051,
+      "stop" : 1562256467026,
+      "duration" : 3975
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "go_work_detail",
+    "time" : {
+      "start" : 1562256467336,
+      "stop" : 1562256473969,
+      "duration" : 6633
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562256467026,
+      "stop" : 1562256467336,
+      "duration" : 310
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562256520083,
+      "stop" : 1562256522318,
+      "duration" : 2235
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "go_work_detail::0",
+    "time" : {
+      "start" : 1562256520081,
+      "stop" : 1562256520081,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562256520082,
+      "stop" : 1562256520082,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "作业"
+  }, {
+    "name" : "story",
+    "value" : "上传文件"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_work"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWork"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "16536-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9184082f26e612b4.json",
+  "parameterValues" : [ ]
+}

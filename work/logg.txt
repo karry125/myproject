@@ -1,0 +1,3 @@
+Sat, 27 Apr 2019  19:08:35-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 27 Apr 2019  19:08:36-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 27 Apr 2019  19:08:37-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}

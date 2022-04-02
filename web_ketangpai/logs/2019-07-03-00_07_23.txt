@@ -1,0 +1,25 @@
+2019-07-03 00:07:27,448-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 00:07:27,498-common.base_page-INFO-开始时间点2019-07-03 00:07:27.449426，结束时间点2019-07-03 00:07:27.498295，等待时长0:00:00.048869
+2019-07-03 00:07:27,499-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 00:07:27,514-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 00:07:27,671-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 00:07:27,704-common.base_page-INFO-开始时间点2019-07-03 00:07:27.671665，结束时间点2019-07-03 00:07:27.704576，等待时长0:00:00.032911
+2019-07-03 00:07:27,704-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 00:07:27,718-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 00:07:27,808-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:07:27,843-common.base_page-INFO-开始时间点2019-07-03 00:07:27.808300，结束时间点2019-07-03 00:07:27.843221，等待时长0:00:00.034921
+2019-07-03 00:07:27,844-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:07:27,859-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:07:27,944-common.base_page-INFO-查找种的元素<class 'PageLocaters.class_page_locator.ClassLocator'>
+2019-07-03 00:07:27,945-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+TypeError: find_element() argument after * must be an iterable, not type
+2019-07-03 00:07:29,064-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_07_27.png
+2019-07-03 00:07:29,064-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]')
+2019-07-03 00:07:29,621-common.base_page-INFO-开始时间点2019-07-03 00:07:29.064938，结束时间点2019-07-03 00:07:29.621448，等待时长0:00:00.556510
+2019-07-03 00:07:29,621-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]')
+2019-07-03 00:07:29,635-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]')
+2019-07-03 00:07:29,684-common.base_page-ERROR-点击元素失败
+2019-07-03 00:07:30,096-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_07_29.png

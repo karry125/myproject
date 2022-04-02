@@ -1,0 +1,345 @@
+Fri, 22 Mar 2019  21:48:29-confs-INFO-测试用例方法test_login_post,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-测试用例方法test_login_get,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Fri, 22 Mar 2019  21:48:30-confs-ERROR-返回结果：'10001' != '10003'
+- 10001
+?     ^
++ 10003
+?     ^
+
+Fri, 22 Mar 2019  21:48:30-confs-INFO-测试用例方法test_error_password,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-测试用例方法test_error_account,测试参数：{'mobilephone': '18688773465', 'pwd': '123456'}
+Fri, 22 Mar 2019  21:48:30-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  10:09:23-confs-INFO-测试用例方法test_login_post,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:09:25-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  10:09:25-confs-INFO-测试用例方法test_login_get,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:09:32-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  10:09:32-confs-ERROR-返回结果：'10001' != '10003'
+- 10001
+?     ^
++ 10003
+?     ^
+
+Sat, 23 Mar 2019  10:09:32-confs-INFO-测试用例方法test_error_password,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  10:09:34-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  10:09:34-confs-INFO-测试用例方法test_error_account,测试参数：{'mobilephone': '18688773465', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:09:34-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-测试用例方法test_login_post,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-测试用例方法test_login_get,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  10:14:15-confs-ERROR-返回结果：'10001' != '10003'
+- 10001
+?     ^
++ 10003
+?     ^
+
+Sat, 23 Mar 2019  10:14:15-confs-INFO-测试用例方法test_error_password,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-测试用例方法test_error_account,测试参数：{'mobilephone': '18688773465', 'pwd': '123456'}
+Sat, 23 Mar 2019  10:14:15-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-测试用例方法test_error_account,测试参数：{'mobilephone': '18688773465', 'pwd': '123456'}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-测试用例方法test_error_password,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-测试用例方法test_login_get,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  12:48:15-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:20:29-confs-INFO-测试用例方法test_error_account,测试参数：{'mobilephone': '18688773465', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:20:29-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-测试用例方法test_error_password,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-测试用例方法test_login_get,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:20:30-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:57:27-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:57:27-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:58:09-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:58:09-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:58:09-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  14:58:09-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  14:58:09-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:58:13-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  14:59:55-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:01:49-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:01:49-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:01:49-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:01:49-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:01:49-confs-ERROR-返回结果： :: 20111 != 10001
+Sat, 23 Mar 2019  15:01:49-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:01:49-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:01:49-confs-ERROR-返回结果： :: 20111 != 10001
+Sat, 23 Mar 2019  15:03:43-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:03:43-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:03:43-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:03:43-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:03:43-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:03:44-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:04:22-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:04:53-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:06:08-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:06:08-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:06:08-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:06:08-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:06:08-confs-ERROR-返回结果:%s()
+Sat, 23 Mar 2019  15:06:08-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:06:08-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:06:08-confs-ERROR-返回结果:%s()
+Sat, 23 Mar 2019  15:08:09-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:09-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:08:09-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:08:09-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:09-confs-ERROR-返回结果:()
+Sat, 23 Mar 2019  15:08:09-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:09-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:09-confs-ERROR-返回结果:()
+Sat, 23 Mar 2019  15:08:29-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:29-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:08:29-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:08:29-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:29-confs-ERROR-返回结果:()
+Sat, 23 Mar 2019  15:08:29-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:29-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:29-confs-ERROR-返回结果:()
+Sat, 23 Mar 2019  15:08:54-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:54-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:08:54-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:08:54-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:54-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  15:08:54-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:08:54-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:08:54-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  15:14:23-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:14:24-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  15:14:24-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  15:14:24-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:14:24-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  15:14:24-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  15:14:24-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  15:14:24-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:04:42-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:04:42-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:04:42-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  20:04:42-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:04:42-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:04:42-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:04:42-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:04:42-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:06:53-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:06:54-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:06:54-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  20:06:54-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:06:54-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sat, 23 Mar 2019  20:06:54-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:06:54-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:06:54-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sat, 23 Mar 2019  20:09:34-confs-INFO-测试用例方法test_login_post_1___18688773467____123456__,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:09:34-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:09:34-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567__,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Sat, 23 Mar 2019  20:09:34-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:09:34-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sat, 23 Mar 2019  20:09:34-confs-INFO-测试用例方法test_login_post_3___186887734679____123456__,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:09:35-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:09:35-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sat, 23 Mar 2019  20:17:44-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:17:44-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:17:44-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 23 Mar 2019  20:17:44-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:17:44-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:17:44-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:17:44-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:17:44-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:19:41-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:19:43-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:19:43-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 23 Mar 2019  20:19:44-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:19:44-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:19:44-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:19:44-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:19:44-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:20:46-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:20:46-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sat, 23 Mar 2019  20:20:46-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 23 Mar 2019  20:20:46-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:20:46-confs-ERROR-返回结果: :: 20111 != 10001
+Sat, 23 Mar 2019  20:20:46-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sat, 23 Mar 2019  20:20:46-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sat, 23 Mar 2019  20:20:46-confs-ERROR-返回结果: :: 20111 != 10001
+Sun, 24 Mar 2019  18:08:28-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:08:28-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:08:28-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:08:29-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:08:29-confs-ERROR-返回结果: :: 20111 != 10001
+Sun, 24 Mar 2019  18:08:29-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:08:29-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:08:29-confs-ERROR-返回结果: :: 20111 != 10001
+Sun, 24 Mar 2019  18:09:03-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:09:03-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:09:03-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:09:03-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:09:03-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:09:03-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:09:03-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:09:03-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:09:25-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:09:25-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:09:25-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:09:25-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:09:25-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:09:25-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:09:25-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:09:25-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:16:36-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:16:36-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:16:36-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:16:37-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:16:37-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:16:37-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:17:31-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:17:32-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:17:32-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:17:32-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:17:32-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:17:32-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:18:46-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:18:46-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:18:46-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:18:46-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:18:46-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:18:46-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:18:46-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:18:46-confs-ERROR-返回结果:'20111' != '10001'
+- 20111
++ 10001
+
+Sun, 24 Mar 2019  18:20:32-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:20:33-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Sun, 24 Mar 2019  18:20:33-confs-ERROR-返回结果: :: 10001 != 10001
+Sun, 24 Mar 2019  18:20:33-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:20:33-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:20:33-confs-ERROR-返回结果: :: 20111 != 20111
+Sun, 24 Mar 2019  18:20:33-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:20:33-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Sun, 24 Mar 2019  18:20:33-confs-ERROR-返回结果: :: 20111 != 10001
+Sun, 24 Mar 2019  18:21:06-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 24 Mar 2019  18:21:06-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 24 Mar 2019  18:21:06-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:51:58-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:51:58-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  20:51:58-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  20:51:58-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  20:51:58-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:53:22-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:53:22-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  20:53:22-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  20:53:22-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  20:53:22-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:57:38-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  20:57:38-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  20:57:38-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  20:57:38-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  20:57:38-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:10:52-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:10:52-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  21:10:52-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  21:10:52-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  21:10:52-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:36:05-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:36:05-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  21:36:05-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  21:36:05-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  21:36:05-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:40:31-confs-INFO-测试用例方法test_login_post_1___18688773467____123456___1001_,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:40:31-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567___1002_,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Mon, 25 Mar 2019  21:40:31-confs-INFO-测试用例方法test_login_post_3___186887734679____123456___22_,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:41:03-confs-INFO-测试用例方法test_login_post_1___18688773467____123456___1001_,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:41:03-confs-INFO-测试用例方法test_login_post_2___18688773467____1234567___1002_,测试参数：{'mobilephone': '18688773467', 'pwd': '1234567'}
+Mon, 25 Mar 2019  21:41:03-confs-INFO-测试用例方法test_login_post_3___186887734679____123456___22_,测试参数：{'mobilephone': '186887734679', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:46:13-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:46:13-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  21:46:13-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  21:46:14-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  21:46:14-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:47:38-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  21:47:38-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  21:47:38-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  21:47:38-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  21:47:38-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 25 Mar 2019  22:04:01-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 25 Mar 2019  22:04:01-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Mon, 25 Mar 2019  22:04:01-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 25 Mar 2019  22:04:02-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Mon, 25 Mar 2019  22:04:02-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Wed, 27 Mar 2019  22:53:03-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Wed, 27 Mar 2019  22:53:03-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Wed, 27 Mar 2019  22:53:03-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Wed, 27 Mar 2019  22:56:23-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Wed, 27 Mar 2019  22:56:23-confs-INFO-返回结果：{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+Wed, 27 Mar 2019  22:56:23-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Wed, 27 Mar 2019  22:56:23-confs-INFO-返回结果：{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+Wed, 27 Mar 2019  22:56:23-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Mon, 01 Apr 2019  22:10:29-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Mon, 01 Apr 2019  22:10:30-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Mon, 01 Apr 2019  22:10:30-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:39:06-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:39:06-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Tue, 09 Apr 2019  22:39:06-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:40:10-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:40:10-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Tue, 09 Apr 2019  22:40:10-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:41:39-confs-INFO-测试用例方法test_login_post_1_登陆成功,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Tue, 09 Apr 2019  22:41:40-confs-INFO-测试用例方法test_login_post_2_密码错误,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Tue, 09 Apr 2019  22:41:42-confs-INFO-测试用例方法test_login_post_3_账号错误,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sun, 14 Apr 2019  00:59:07-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sun, 14 Apr 2019  00:59:09-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sun, 14 Apr 2019  00:59:10-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sat, 27 Apr 2019  19:07:52-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 27 Apr 2019  19:07:54-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 27 Apr 2019  19:07:55-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}
+Sat, 27 Apr 2019  19:08:24-confs-INFO-测试用例方法test_login_post_1,测试参数：{'mobilephone': '18688773467', 'pwd': '123456'}
+Sat, 27 Apr 2019  19:08:25-confs-INFO-测试用例方法test_login_post_2,测试参数：{'mobilephone': '18688773467', 'pwd': '1234566'}
+Sat, 27 Apr 2019  19:08:26-confs-INFO-测试用例方法test_login_post_3,测试参数：{'mobilephone': '186887734657', 'pwd': '123456'}

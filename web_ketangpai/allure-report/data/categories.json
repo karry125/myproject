@@ -1,0 +1,81 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "children" : [ {
+        "name" : "test_login_0_failed_by_wrong_datas",
+        "uid" : "705435097db294af",
+        "parentUid" : "2db3c0f8c6f543f88d6084905c6646e9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164538595,
+          "stop" : 1562164538595,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2db3c0f8c6f543f88d6084905c6646e9"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "children" : [ {
+        "name" : "test_login_1_failed_by_fail_datas",
+        "uid" : "4833ac54d81acdd8",
+        "parentUid" : "6b48fb94b0481934a41e50e466fe327d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562164725549,
+          "stop" : 1562164725549,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b48fb94b0481934a41e50e466fe327d"
+    }, {
+      "name" : "TypeError: list indices must be integers or slices, not str",
+      "children" : [ {
+        "name" : "test_chat_msg[data0]",
+        "uid" : "86f6380be555851",
+        "parentUid" : "a6ca840760d68beef4d0b02ac437317c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'msg': '', 'check': '私信内容不能为空'}" ]
+      } ],
+      "uid" : "a6ca840760d68beef4d0b02ac437317c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'https://www....er/login.html' == 'https://www.k...in/index.html'\n  - https://www.ketangpai.com/Home/User/login.html\n  ?                           ^^^^^^^^^^^^^\n  + https://www.ketangpai.com/Main/index.html\n  ?                           ^^  ++++++",
+      "children" : [ {
+        "name" : "test_login_2_success_login",
+        "uid" : "ec5964a5eac0a34b",
+        "parentUid" : "f15c0937f8091283278c112d51652258",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562259120782,
+          "stop" : 1562259121399,
+          "duration" : 617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f15c0937f8091283278c112d51652258"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

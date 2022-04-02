@@ -1,0 +1,68 @@
+2019-07-03 22:09:35,860-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:09:35,941-common.base_page-INFO-开始时间点2019-07-03 22:09:35.860446，结束时间点2019-07-03 22:09:35.940837，等待时长0:00:00.080391
+2019-07-03 22:09:35,941-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:09:35,960-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:09:36,116-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:09:36,148-common.base_page-INFO-开始时间点2019-07-03 22:09:36.116369，结束时间点2019-07-03 22:09:36.148283，等待时长0:00:00.031914
+2019-07-03 22:09:36,149-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:09:36,161-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:09:36,275-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:36,312-common.base_page-INFO-开始时间点2019-07-03 22:09:36.276091，结束时间点2019-07-03 22:09:36.312992，等待时长0:00:00.036901
+2019-07-03 22:09:36,312-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:36,325-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:36,458-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:09:36,477-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="close"]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+2019-07-03 22:09:37,717-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_09_36.png
+2019-07-03 22:09:37,717-common.base_page-INFO-等待元素可见('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:09:37,944-common.base_page-INFO-开始时间点2019-07-03 22:09:37.719530，结束时间点2019-07-03 22:09:37.944928，等待时长0:00:00.225398
+2019-07-03 22:09:37,944-common.base_page-INFO-查找种的元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:09:37,965-common.base_page-INFO-点击元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:09:38,008-common.base_page-ERROR-点击元素失败
+2019-07-03 22:09:38,533-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_09_38.png
+2019-07-03 22:09:45,360-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:09:45,420-common.base_page-INFO-开始时间点2019-07-03 22:09:45.361391，结束时间点2019-07-03 22:09:45.420568，等待时长0:00:00.059177
+2019-07-03 22:09:45,420-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:09:45,438-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:09:45,592-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:09:45,628-common.base_page-INFO-开始时间点2019-07-03 22:09:45.592109，结束时间点2019-07-03 22:09:45.628013，等待时长0:00:00.035904
+2019-07-03 22:09:45,628-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:09:45,643-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:09:45,739-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:45,774-common.base_page-INFO-开始时间点2019-07-03 22:09:45.739979，结束时间点2019-07-03 22:09:45.774884，等待时长0:00:00.034905
+2019-07-03 22:09:45,774-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:45,790-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:09:45,870-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:09:45,893-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "f:\program files\python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="close"]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+2019-07-03 22:09:46,927-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_09_45.png
+2019-07-03 22:09:49,929-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:09:49,987-common.base_page-INFO-开始时间点2019-07-03 22:09:49.929250，结束时间点2019-07-03 22:09:49.987091，等待时长0:00:00.057841
+2019-07-03 22:09:49,988-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:09:50,001-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:09:50,046-common.base_page-ERROR-点击元素失败
+2019-07-03 22:09:50,417-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_09_50.png

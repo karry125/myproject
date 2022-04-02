@@ -1,0 +1,152 @@
+{
+  "uid" : "35dc2fbed9d7bfd8",
+  "name" : "test_add_comment",
+  "fullName" : "TestCases.test_work.TestWork#test_add_comment",
+  "historyId" : "325ce368f82ff5401416dbf60b1cbd72",
+  "time" : {
+    "start" : 1562255300212,
+    "stop" : 1562255302607,
+    "duration" : 2395
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 15\n  -1\n  +15",
+  "statusTrace" : "self = <TestCases.test_work.TestWork object at 0x000001D0B2805438>\ngo_work_detail = <PageObjects.home_detail_page.DetailPage object at 0x000001D0B27805C0>\n\n    @allure.story(\"评论\")\n    def test_add_comment(self,go_work_detail):\n        # ClassList(login_web).close_alert()\n        # time.sleep(3)\n        # ClassList(login_web).go_class()\n        # HomeWorkPage(login_web).click_work_title()\n        # dp = DetailPage(login_web)\n        # dp.go_work_detail()\n        go_work_detail.click_comment()\n        com_list = go_work_detail.check_comment_list()\n        go_work_detail.add_comment(\"test\")\n        time.sleep(1)\n        after_list=go_work_detail.check_comment_list()\n>       assert com_list+1==after_list\nE       assert 1 == 15\nE         -1\nE         +15\n\nTestCases\\test_work.py:46: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562255251264,
+      "stop" : 1562255251511,
+      "duration" : 247
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562255247029,
+      "stop" : 1562255251264,
+      "duration" : 4235
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "go_work_detail",
+    "time" : {
+      "start" : 1562255251511,
+      "stop" : 1562255258677,
+      "duration" : 7166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562255302713,
+      "stop" : 1562255302713,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562255302715,
+      "stop" : 1562255304853,
+      "duration" : 2138
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "go_work_detail::0",
+    "time" : {
+      "start" : 1562255302612,
+      "stop" : 1562255302612,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "作业"
+  }, {
+    "name" : "story",
+    "value" : "评论"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_work"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWork"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "16908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_work"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35dc2fbed9d7bfd8.json",
+  "parameterValues" : [ ]
+}

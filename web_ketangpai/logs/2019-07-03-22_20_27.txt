@@ -1,0 +1,34 @@
+2019-07-03 22:20:31,679-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:20:31,721-common.base_page-INFO-开始时间点2019-07-03 22:20:31.680964，结束时间点2019-07-03 22:20:31.721853，等待时长0:00:00.040889
+2019-07-03 22:20:31,722-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:20:31,737-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:20:31,854-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:20:31,906-common.base_page-INFO-开始时间点2019-07-03 22:20:31.854498，结束时间点2019-07-03 22:20:31.906036，等待时长0:00:00.051538
+2019-07-03 22:20:31,906-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:20:31,920-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:20:32,008-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:20:32,043-common.base_page-INFO-开始时间点2019-07-03 22:20:32.008769，结束时间点2019-07-03 22:20:32.043670，等待时长0:00:00.034901
+2019-07-03 22:20:32,043-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:20:32,056-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:20:32,120-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:20:32,137-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+  File "F:\Program Files\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "F:\Program Files\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Program Files\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="close"]"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+2019-07-03 22:20:33,782-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_20_32.png
+2019-07-03 22:20:33,783-common.base_page-INFO-等待元素可见('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:20:33,970-common.base_page-INFO-开始时间点2019-07-03 22:20:33.783741，结束时间点2019-07-03 22:20:33.970255，等待时长0:00:00.186514
+2019-07-03 22:20:33,971-common.base_page-INFO-查找种的元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:20:33,986-common.base_page-INFO-点击元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:20:34,032-common.base_page-ERROR-点击元素失败
+2019-07-03 22:20:34,473-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 22_20_34.png

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2/selenium-java-2.48.2.jar!/" />
+          <root url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2/selenium-java-2.48.2-srcs.jar!/" />
+          <root url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2" />
+        </SOURCES>
+        <jarDirectory url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2" recursive="false" />
+        <jarDirectory url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/BaiduNetdiskDownload/selenium-java-2.48.2/selenium-2.48.2/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/BaiduNetdiskDownload/testng/testng-6.9.4.jar!/" />
+          <root url="jar://D:/BaiduNetdiskDownload/testng/reportng-1.1.4.jar!/" />
+          <root url="jar://D:/BaiduNetdiskDownload/testng/guice-3.0-no_aop.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/BaiduNetdiskDownload/testng/testng-6.9.4.jar!/" />
+          <root url="jar://D:/BaiduNetdiskDownload/testng/reportng-1.1.4-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

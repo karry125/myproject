@@ -1,0 +1,56 @@
+{
+  "uid" : "8c9e88d6c221a6f7",
+  "name" : "test_login_2_success_login",
+  "fullName" : "TestCases.test_login.TestLogin#test_login_2_success_login",
+  "historyId" : "70890bea4db005493b2ff2b6079d770f",
+  "time" : {
+    "start" : 1562164538579,
+    "stop" : 1562164538579,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'TestLogin' object has no attribute 'driver'",
+  "statusTrace" : "self = <TestCases.test_login.TestLogin object at 0x000001D73E058A90>\n\n    def test_login_2_success_login(self):\n        # 步骤 - 登陆操作 - 登陆页面 - 18684720553、python\n>       LoginPage(self.driver).login(ld.success_data[\"user\"], ld.success_data[\"passwd\"])  # 测试对象+测试数据\nE       AttributeError: 'TestLogin' object has no attribute 'driver'\n\nTestCases\\test_login.py:28: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "5524-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c9e88d6c221a6f7.json",
+  "parameterValues" : [ ]
+}

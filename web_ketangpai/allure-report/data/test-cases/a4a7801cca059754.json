@@ -1,0 +1,202 @@
+{
+  "uid" : "a4a7801cca059754",
+  "name" : "test_chat_msg[test]",
+  "fullName" : "TestCases.test_chat.TestChat#test_chat_msg[test]",
+  "historyId" : "0607a90d4338aad50c7ecbab46e08fe6",
+  "time" : {
+    "start" : 1562346480920,
+    "stop" : 1562346487352,
+    "duration" : 6432
+  },
+  "description" : "\n        用例描述：发送私信\n        :param data:\n        :param login_web:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：发送私信\n    :param data:\n    :param login_web:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "go_student_detail",
+    "time" : {
+      "start" : 1562346472499,
+      "stop" : 1562346480919,
+      "duration" : 8420
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562346472269,
+      "stop" : 1562346472499,
+      "duration" : 230
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562346467217,
+      "stop" : 1562346472269,
+      "duration" : 5052
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "go_student_detail::0",
+    "time" : {
+      "start" : 1562346492980,
+      "stop" : 1562346492980,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562346493080,
+      "stop" : 1562346493080,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562346493081,
+      "stop" : 1562346495216,
+      "duration" : 2135
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "发送私信"
+  }, {
+    "name" : "feature",
+    "value" : "聊天"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_chat"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChat"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9160-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_chat"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'test'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b5ac29dc5a59ab62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259054340,
+        "stop" : 1562259065659,
+        "duration" : 11319
+      }
+    }, {
+      "uid" : "9a8934966c6cdc62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562256420610,
+        "stop" : 1562256430115,
+        "duration" : 9505
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "29874ed6c432573c",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/29874ed6c432573c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259054340,
+          "stop" : 1562259065659,
+          "duration" : 11319
+        }
+      }, {
+        "uid" : "694c0078e5d5acdb",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/694c0078e5d5acdb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562256420610,
+          "stop" : 1562256430115,
+          "duration" : 9505
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a4a7801cca059754.json",
+  "parameterValues" : [ "'test'" ]
+}

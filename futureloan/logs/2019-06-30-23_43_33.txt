@@ -1,0 +1,20 @@
+2019-06-30 23:43:40,032-common.base_page-INFO-等待元素可见('xpath', '//input[@name="phone"]')
+2019-06-30 23:43:40,105-common.base_page-INFO-开始时间点2019-06-30 23:43:40.032172，结束时间点2019-06-30 23:43:40.104041，等待时长0:00:00.071869
+2019-06-30 23:43:40,106-common.base_page-INFO-查找种的元素('xpath', '//input[@name="phone"]')
+2019-06-30 23:43:40,148-common.base_page-INFO-元素('xpath', '//input[@name="phone"]')输入文本内容
+2019-06-30 23:43:40,444-common.base_page-INFO-等待元素可见('xpath', '//input[@name="password"]')
+2019-06-30 23:43:40,500-common.base_page-INFO-开始时间点2019-06-30 23:43:40.445127，结束时间点2019-06-30 23:43:40.500978，等待时长0:00:00.055851
+2019-06-30 23:43:40,501-common.base_page-INFO-查找种的元素('xpath', '//input[@name="password"]')
+2019-06-30 23:43:40,527-common.base_page-INFO-元素('xpath', '//input[@name="password"]')输入文本内容
+2019-06-30 23:43:40,640-common.base_page-INFO-等待元素可见('tag name', 'button')
+2019-06-30 23:43:40,677-common.base_page-INFO-开始时间点2019-06-30 23:43:40.640604，结束时间点2019-06-30 23:43:40.677505，等待时长0:00:00.036901
+2019-06-30 23:43:40,677-common.base_page-INFO-查找登录页面_点击登录按钮种的元素('tag name', 'button')
+2019-06-30 23:43:40,692-common.base_page-INFO-点击元素('tag name', 'button')
+2019-06-30 23:44:48,536-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-06-30 23:44:48,572-common.base_page-INFO-开始时间点2019-06-30 23:44:48.537726，结束时间点2019-06-30 23:44:48.572633，等待时长0:00:00.034907
+2019-06-30 23:44:48,572-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-06-30 23:44:48,599-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-left值为：95601
+2019-06-30 23:44:48,600-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-06-30 23:44:48,628-common.base_page-INFO-开始时间点2019-06-30 23:44:48.600564，结束时间点2019-06-30 23:44:48.628483，等待时长0:00:00.027919
+2019-06-30 23:44:48,628-common.base_page-INFO-查找标页面_获取用户余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-06-30 23:44:48,652-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-amount值为：454144.76

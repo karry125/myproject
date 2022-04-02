@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+    <test name="First test">
+        <classes>
+            <class name="TestCase.Testlogin"></class>
+            <!--<class name="TestCase.Testlist"></class>-->
+            <class name="TestCase.TestCreate"></class>
+            <class name="TestCase.TestCreatePu"></class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+</suite>

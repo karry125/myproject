@@ -1,0 +1,125 @@
+{
+  "uid" : "b5ac29dc5a59ab62",
+  "name" : "test_chat_msg[test]",
+  "fullName" : "TestCases.test_chat.TestChat#test_chat_msg[test]",
+  "historyId" : "0607a90d4338aad50c7ecbab46e08fe6",
+  "time" : {
+    "start" : 1562259054340,
+    "stop" : 1562259065659,
+    "duration" : 11319
+  },
+  "description" : "\n        用例描述：发送私信\n        :param data:\n        :param login_web:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：发送私信\n    :param data:\n    :param login_web:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562259053542,
+      "stop" : 1562259054339,
+      "duration" : 797
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562259048676,
+      "stop" : 1562259053542,
+      "duration" : 4866
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562259096640,
+      "stop" : 1562259096640,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562259096642,
+      "stop" : 1562259098857,
+      "duration" : 2215
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "发送私信"
+  }, {
+    "name" : "feature",
+    "value" : "聊天"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_chat"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChat"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "16424-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_chat"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'test'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5ac29dc5a59ab62.json",
+  "parameterValues" : [ "'test'" ]
+}

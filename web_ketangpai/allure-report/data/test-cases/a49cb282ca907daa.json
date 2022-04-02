@@ -1,0 +1,153 @@
+{
+  "uid" : "a49cb282ca907daa",
+  "name" : "test_login_0_failed_by_wrong_datas[data2]",
+  "fullName" : "TestCases.test_login.TestLogin#test_login_0_failed_by_wrong_datas[data2]",
+  "historyId" : "d3e80c56bbf5afc6aedd05953e26ce3c",
+  "time" : {
+    "start" : 1562346500957,
+    "stop" : 1562346501714,
+    "duration" : 757
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "refresh_page",
+    "time" : {
+      "start" : 1562346500956,
+      "stop" : 1562346500956,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562346495324,
+      "stop" : 1562346499776,
+      "duration" : 4452
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "refresh_page::0",
+    "time" : {
+      "start" : 1562346501715,
+      "stop" : 1562346501909,
+      "duration" : 194
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562346505428,
+      "stop" : 1562346507954,
+      "duration" : 2526
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录失败"
+  }, {
+    "name" : "feature",
+    "value" : "登录页面功能"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "9160-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4924431c50fa739b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259105484,
+        "stop" : 1562259106501,
+        "duration" : 1017
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "50a1c4df3a59450a",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/50a1c4df3a59450a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562259105484,
+          "stop" : 1562259106501,
+          "duration" : 1017
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a49cb282ca907daa.json",
+  "parameterValues" : [ "{'user': '186847', 'passwd': 'python', 'check': '用户不存在'}" ]
+}

@@ -1,0 +1,174 @@
+{
+  "uid" : "86f6380be555851",
+  "name" : "test_chat_msg[data0]",
+  "fullName" : "TestCases.test_chat.TestChat#test_chat_msg[data0]",
+  "historyId" : "d3decdcd4bd470c20bcd054468692384",
+  "time" : {
+    "start" : 1562255237658,
+    "stop" : 1562255244386,
+    "duration" : 6728
+  },
+  "description" : "\n        用例描述：发送空消息\n        :param data:\n        :param login_web:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：发送空消息\n    :param data:\n    :param login_web:\n    :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "TypeError: list indices must be integers or slices, not str",
+  "statusTrace" : "self = <TestCases.test_chat.TestChat object at 0x000001D0B2672550>\ndata = {'check': '私信内容不能为空', 'msg': ''}\nlogin_web = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"702a397e08f4b2fd238a82a7422c9096\")>\n\n    @allure.story(\"发送失败私信\")\n    @pytest.mark.parametrize(\"data\", fd)\n    def test_chat_msg(self, data, login_web):\n        \"\"\"\n        用例描述：发送空消息\n        :param data:\n        :param login_web:\n        :return:\n        \"\"\"\n        ClassList(login_web).close_alert()\n        time.sleep(3)\n        ClassList(login_web).go_class()\n        HomeWorkPage(login_web).click_student()\n>       StudentPage(login_web).send_msg(fd[\"msg\"])\nE       TypeError: list indices must be integers or slices, not str\n\nTestCases\\test_chat.py:45: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562255237389,
+      "stop" : 1562255237656,
+      "duration" : 267
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562255231977,
+      "stop" : 1562255237388,
+      "duration" : 5411
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562255244902,
+      "stop" : 1562255244902,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562255244902,
+      "stop" : 1562255247015,
+      "duration" : 2113
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "聊天"
+  }, {
+    "name" : "story",
+    "value" : "发送失败私信"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_chat"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChat"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "16908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_chat"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'msg': '', 'check': '私信内容不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "929e9f9c15d691a2",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/929e9f9c15d691a2",
+        "status" : "broken",
+        "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        }
+      }, {
+        "uid" : "c467a082d674e144",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/c467a082d674e144",
+        "status" : "broken",
+        "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        }
+      }, {
+        "uid" : "cfd7d4e589a220c4",
+        "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/cfd7d4e589a220c4",
+        "status" : "broken",
+        "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+        "time" : {
+          "start" : 1562255237658,
+          "stop" : 1562255244386,
+          "duration" : 6728
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "86f6380be555851.json",
+  "parameterValues" : [ "{'msg': '', 'check': '私信内容不能为空'}" ]
+}

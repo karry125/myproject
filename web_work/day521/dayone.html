@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!-- 链接元素-->
+<a href="http://www.baidu.com">惊喜</a>
+<input type="text" id="phone" />
+<input type="radio" name="sex" value="n" checked>男
+<input type="radio" name="sex" value="m">女
+<br>
+<input type="checkbox" checked>早上
+<input type="checkbox">中文
+<input type="checkbox">晚上
+<br>
+<input type="button" value="看看">空
+<script type="text/javasripte" >
+ var text=document.getElementById("phone")
+ text.onchange= function(){
+ res = text.value
+ if (res.length==11){alert("手机号正确");}
+ else{alert("错误");}
+ }
+
+</script>
+
+</body>
+</html>

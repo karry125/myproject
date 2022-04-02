@@ -1,0 +1,25 @@
+2019-07-03 00:10:38,544-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 00:10:38,580-common.base_page-INFO-开始时间点2019-07-03 00:10:38.545571，结束时间点2019-07-03 00:10:38.580561，等待时长0:00:00.034990
+2019-07-03 00:10:38,580-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 00:10:38,593-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 00:10:38,740-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 00:10:38,775-common.base_page-INFO-开始时间点2019-07-03 00:10:38.740136，结束时间点2019-07-03 00:10:38.775043，等待时长0:00:00.034907
+2019-07-03 00:10:38,776-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 00:10:38,785-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 00:10:38,858-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:10:38,884-common.base_page-INFO-开始时间点2019-07-03 00:10:38.858818，结束时间点2019-07-03 00:10:38.884748，等待时长0:00:00.025930
+2019-07-03 00:10:38,885-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:10:38,892-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:10:38,945-common.base_page-INFO-查找种的元素<class 'PageLocaters.class_page_locator.ClassLocator'>
+2019-07-03 00:10:38,945-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+TypeError: find_element() argument after * must be an iterable, not type
+2019-07-03 00:10:39,921-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_10_38.png
+2019-07-03 00:10:39,949-common.base_page-INFO-等待元素可见('xpath', '//a[text()="Python全栈第15期"]')
+2019-07-03 00:10:40,093-common.base_page-INFO-开始时间点2019-07-03 00:10:39.949899，结束时间点2019-07-03 00:10:40.093515，等待时长0:00:00.143616
+2019-07-03 00:10:40,093-common.base_page-INFO-查找种的元素('xpath', '//a[text()="Python全栈第15期"]')
+2019-07-03 00:10:40,107-common.base_page-INFO-点击元素('xpath', '//a[text()="Python全栈第15期"]')
+2019-07-03 00:10:40,146-common.base_page-ERROR-点击元素失败
+2019-07-03 00:10:40,636-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_10_40.png

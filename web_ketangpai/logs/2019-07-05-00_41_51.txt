@@ -1,0 +1,76 @@
+2019-07-05 00:41:57,450-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-05 00:41:57,566-common.base_page-INFO-开始时间点2019-07-05 00:41:57.450482，结束时间点2019-07-05 00:41:57.562181，等待时长0:00:00.111699
+2019-07-05 00:41:57,567-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-05 00:41:57,591-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-05 00:41:57,738-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:57,769-common.base_page-INFO-开始时间点2019-07-05 00:41:57.738709，结束时间点2019-07-05 00:41:57.769629，等待时长0:00:00.030920
+2019-07-05 00:41:57,770-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:57,781-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-05 00:41:57,820-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:57,854-common.base_page-INFO-开始时间点2019-07-05 00:41:57.820490，结束时间点2019-07-05 00:41:57.854399，等待时长0:00:00.033909
+2019-07-05 00:41:57,854-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:57,863-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:57,982-common.base_page-INFO-等待元素可见('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:41:58,023-common.base_page-INFO-开始时间点2019-07-05 00:41:57.982066，结束时间点2019-07-05 00:41:58.023946，等待时长0:00:00.041880
+2019-07-05 00:41:58,023-common.base_page-INFO-查找种的元素('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:41:58,061-common.base_page-INFO-获取元素('xpath', '//p[@class="error-tips"]')文本值为：密码不能为空
+2019-07-05 00:41:58,443-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-05 00:41:58,468-common.base_page-INFO-开始时间点2019-07-05 00:41:58.443823，结束时间点2019-07-05 00:41:58.468756，等待时长0:00:00.024933
+2019-07-05 00:41:58,469-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-05 00:41:58,475-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-05 00:41:58,500-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:58,518-common.base_page-INFO-开始时间点2019-07-05 00:41:58.500671，结束时间点2019-07-05 00:41:58.518624，等待时长0:00:00.017953
+2019-07-05 00:41:58,519-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:58,526-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-05 00:41:58,619-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:58,638-common.base_page-INFO-开始时间点2019-07-05 00:41:58.619353，结束时间点2019-07-05 00:41:58.638302，等待时长0:00:00.018949
+2019-07-05 00:41:58,639-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:58,646-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:58,690-common.base_page-INFO-等待元素可见('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:41:58,713-common.base_page-INFO-开始时间点2019-07-05 00:41:58.691173，结束时间点2019-07-05 00:41:58.713102，等待时长0:00:00.021929
+2019-07-05 00:41:58,713-common.base_page-INFO-查找种的元素('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:41:58,736-common.base_page-INFO-获取元素('xpath', '//p[@class="error-tips"]')文本值为：账号不能为空
+2019-07-05 00:41:59,169-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-05 00:41:59,210-common.base_page-INFO-开始时间点2019-07-05 00:41:59.170880，结束时间点2019-07-05 00:41:59.210772，等待时长0:00:00.039892
+2019-07-05 00:41:59,210-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-05 00:41:59,222-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-05 00:41:59,318-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:59,338-common.base_page-INFO-开始时间点2019-07-05 00:41:59.318488，结束时间点2019-07-05 00:41:59.338431，等待时长0:00:00.019943
+2019-07-05 00:41:59,338-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-05 00:41:59,346-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-05 00:41:59,433-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:59,454-common.base_page-INFO-开始时间点2019-07-05 00:41:59.434175，结束时间点2019-07-05 00:41:59.454120，等待时长0:00:00.019945
+2019-07-05 00:41:59,454-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:59,462-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:41:59,524-common.base_page-INFO-等待元素可见('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:42:00,063-common.base_page-INFO-开始时间点2019-07-05 00:41:59.524931，结束时间点2019-07-05 00:42:00.063491，等待时长0:00:00.538560
+2019-07-05 00:42:00,063-common.base_page-INFO-查找种的元素('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:42:00,087-common.base_page-INFO-获取元素('xpath', '//p[@class="error-tips"]')文本值为：用户不存在
+2019-07-05 00:42:00,299-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-05 00:42:00,337-common.base_page-INFO-开始时间点2019-07-05 00:42:00.300856，结束时间点2019-07-05 00:42:00.337757，等待时长0:00:00.036901
+2019-07-05 00:42:00,337-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-05 00:42:00,349-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-05 00:42:00,471-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-05 00:42:00,493-common.base_page-INFO-开始时间点2019-07-05 00:42:00.471398，结束时间点2019-07-05 00:42:00.493339，等待时长0:00:00.021941
+2019-07-05 00:42:00,493-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-05 00:42:00,502-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-05 00:42:00,563-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:42:00,587-common.base_page-INFO-开始时间点2019-07-05 00:42:00.564150，结束时间点2019-07-05 00:42:00.587089，等待时长0:00:00.022939
+2019-07-05 00:42:00,587-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:42:00,596-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:42:00,649-common.base_page-INFO-等待元素可见('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:42:00,673-common.base_page-INFO-开始时间点2019-07-05 00:42:00.649922，结束时间点2019-07-05 00:42:00.673856，等待时长0:00:00.023934
+2019-07-05 00:42:00,673-common.base_page-INFO-查找种的元素('xpath', '//p[@class="error-tips"]')
+2019-07-05 00:42:00,695-common.base_page-INFO-获取元素('xpath', '//p[@class="error-tips"]')文本值为：请输入6-24位密码
+2019-07-05 00:42:00,892-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-05 00:42:00,922-common.base_page-INFO-开始时间点2019-07-05 00:42:00.893269，结束时间点2019-07-05 00:42:00.922191，等待时长0:00:00.028922
+2019-07-05 00:42:00,922-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-05 00:42:00,929-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-05 00:42:01,021-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-05 00:42:01,040-common.base_page-INFO-开始时间点2019-07-05 00:42:01.021925，结束时间点2019-07-05 00:42:01.040874，等待时长0:00:00.018949
+2019-07-05 00:42:01,040-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-05 00:42:01,049-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-05 00:42:01,126-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:42:01,151-common.base_page-INFO-开始时间点2019-07-05 00:42:01.126645，结束时间点2019-07-05 00:42:01.151578，等待时长0:00:00.024933
+2019-07-05 00:42:01,151-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-05 00:42:01,160-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')

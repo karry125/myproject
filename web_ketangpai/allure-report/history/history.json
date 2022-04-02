@@ -1,0 +1,789 @@
+{
+  "1089353f49f9a778d150c7365897a4ef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "4833ac54d81acdd8",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/4833ac54d81acdd8",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "time" : {
+        "start" : 1562164725549,
+        "stop" : 1562164725549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "103fa495d5d8d236",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/103fa495d5d8d236",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "time" : {
+        "start" : 1562164725549,
+        "stop" : 1562164725549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a268671ffe12a90c",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/a268671ffe12a90c",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "time" : {
+        "start" : 1562164725549,
+        "stop" : 1562164725549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dc3522aa010cbf8a",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/dc3522aa010cbf8a",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "time" : {
+        "start" : 1562164725549,
+        "stop" : 1562164725549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "47526446345008c0",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/7/allure/#testresult/47526446345008c0",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_1_failed_by_fail_datas>>)",
+      "time" : {
+        "start" : 1562164725549,
+        "stop" : 1562164725549,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0607a90d4338aad50c7ecbab46e08fe6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "a4a7801cca059754",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/a4a7801cca059754",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346480920,
+        "stop" : 1562346487352,
+        "duration" : 6432
+      }
+    }, {
+      "uid" : "29874ed6c432573c",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/29874ed6c432573c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259054340,
+        "stop" : 1562259065659,
+        "duration" : 11319
+      }
+    }, {
+      "uid" : "694c0078e5d5acdb",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/694c0078e5d5acdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562256420610,
+        "stop" : 1562256430115,
+        "duration" : 9505
+      }
+    } ]
+  },
+  "d3e80c56bbf5afc6aedd05953e26ce3c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a49cb282ca907daa",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/a49cb282ca907daa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346500957,
+        "stop" : 1562346501714,
+        "duration" : 757
+      }
+    }, {
+      "uid" : "50a1c4df3a59450a",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/50a1c4df3a59450a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259105484,
+        "stop" : 1562259106501,
+        "duration" : 1017
+      }
+    } ]
+  },
+  "d00564395d75e843a820c65d1befe5e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3e25ace05b6e0aa7",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/3e25ace05b6e0aa7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346501926,
+        "stop" : 1562346502154,
+        "duration" : 228
+      }
+    }, {
+      "uid" : "9a11bab1d24bf007",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/9a11bab1d24bf007",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259106695,
+        "stop" : 1562259107149,
+        "duration" : 454
+      }
+    } ]
+  },
+  "70890bea4db005493b2ff2b6079d770f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 7,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "a615528b667c1e14",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/a615528b667c1e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346502460,
+        "stop" : 1562346504766,
+        "duration" : 2306
+      }
+    }, {
+      "uid" : "15a10e59c01e8cdf",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/15a10e59c01e8cdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259107354,
+        "stop" : 1562259109931,
+        "duration" : 2577
+      }
+    }, {
+      "uid" : "3b0304f49efcc5fd",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/3b0304f49efcc5fd",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'TestLogin' object has no attribute 'driver'",
+      "time" : {
+        "start" : 1562164538579,
+        "stop" : 1562164538579,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9b7c5a925f97f7ca",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/9b7c5a925f97f7ca",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'TestLogin' object has no attribute 'driver'",
+      "time" : {
+        "start" : 1562164538579,
+        "stop" : 1562164538579,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "df07bb73063adc5b",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/7/allure/#testresult/df07bb73063adc5b",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'TestLogin' object has no attribute 'driver'",
+      "time" : {
+        "start" : 1562164538579,
+        "stop" : 1562164538579,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6128ffe3d9b95ee7f71ca108519ca8a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e6510da9f026d1ef",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/e6510da9f026d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259118706,
+        "stop" : 1562259119759,
+        "duration" : 1053
+      }
+    }, {
+      "uid" : "defda0aea5cbefbb",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/defda0aea5cbefbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259118706,
+        "stop" : 1562259119759,
+        "duration" : 1053
+      }
+    } ]
+  },
+  "8a7d193ba520f635ee618b2c05d5824b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "77f82ec7c2194a0a",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/77f82ec7c2194a0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259117092,
+        "stop" : 1562259117746,
+        "duration" : 654
+      }
+    }, {
+      "uid" : "714edad31dd65ebc",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/714edad31dd65ebc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259117092,
+        "stop" : 1562259117746,
+        "duration" : 654
+      }
+    } ]
+  },
+  "1c4196b33c40eb4ce9335a5ebf3512ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2fe94309cf73d676",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/2fe94309cf73d676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346499776,
+        "stop" : 1562346500052,
+        "duration" : 276
+      }
+    }, {
+      "uid" : "9e80f739ca0745a5",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/9e80f739ca0745a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259103811,
+        "stop" : 1562259104440,
+        "duration" : 629
+      }
+    } ]
+  },
+  "ec61490cd352bd98b2c9d9e9683c793b" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ec5964a5eac0a34b",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/ec5964a5eac0a34b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'https://www....er/login.html' == 'https://www.k...in/index.html'\n  - https://www.ketangpai.com/Home/User/login.html\n  ?                           ^^^^^^^^^^^^^\n  + https://www.ketangpai.com/Main/index.html\n  ?                           ^^  ++++++",
+      "time" : {
+        "start" : 1562259120782,
+        "stop" : 1562259121399,
+        "duration" : 617
+      }
+    }, {
+      "uid" : "e3795e51af5b0c82",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/e3795e51af5b0c82",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'https://www....er/login.html' == 'https://www.k...in/index.html'\n  - https://www.ketangpai.com/Home/User/login.html\n  ?                           ^^^^^^^^^^^^^\n  + https://www.ketangpai.com/Main/index.html\n  ?                           ^^  ++++++",
+      "time" : {
+        "start" : 1562259120782,
+        "stop" : 1562259121399,
+        "duration" : 617
+      }
+    } ]
+  },
+  "325ce368f82ff5401416dbf60b1cbd72" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "74ff2b60f91868bc",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/74ff2b60f91868bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346569031,
+        "stop" : 1562346571459,
+        "duration" : 2428
+      }
+    }, {
+      "uid" : "2a7b8af8643c3f19",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/2a7b8af8643c3f19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259180184,
+        "stop" : 1562259183040,
+        "duration" : 2856
+      }
+    }, {
+      "uid" : "aab34d064693eb8d",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/aab34d064693eb8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562256517677,
+        "stop" : 1562256520080,
+        "duration" : 2403
+      }
+    }, {
+      "uid" : "a0154331aa698486",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/a0154331aa698486",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 15\n  -1\n  +15",
+      "time" : {
+        "start" : 1562255300212,
+        "stop" : 1562255302607,
+        "duration" : 2395
+      }
+    }, {
+      "uid" : "3bdab30d025e69ad",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/7/allure/#testresult/3bdab30d025e69ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562165422380,
+        "stop" : 1562165430759,
+        "duration" : 8379
+      }
+    } ]
+  },
+  "66c49a29781fde45f1f89a8f3bf2dbe6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3a30bd8aa546e772",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/3a30bd8aa546e772",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259119956,
+        "stop" : 1562259120606,
+        "duration" : 650
+      }
+    }, {
+      "uid" : "e87d2a5ffa80ebba",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/e87d2a5ffa80ebba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259119956,
+        "stop" : 1562259120606,
+        "duration" : 650
+      }
+    } ]
+  },
+  "202890e6f82a9bdcbe059df3463f5798" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "452490af65a2549c",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/452490af65a2549c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346521564,
+        "stop" : 1562346537773,
+        "duration" : 16209
+      }
+    }, {
+      "uid" : "ccdc7c18ab5325f6",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/ccdc7c18ab5325f6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 0\n  -1\n  +0",
+      "time" : {
+        "start" : 1562259135706,
+        "stop" : 1562259149379,
+        "duration" : 13673
+      }
+    }, {
+      "uid" : "d253a1127b7d5c5e",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/d253a1127b7d5c5e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 0\n  -1\n  +0",
+      "time" : {
+        "start" : 1562256473969,
+        "stop" : 1562256486856,
+        "duration" : 12887
+      }
+    }, {
+      "uid" : "b0b74a7e562c671e",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/b0b74a7e562c671e",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'DetailPage' object has no attribute 'refresh'",
+      "time" : {
+        "start" : 1562255258678,
+        "stop" : 1562255269406,
+        "duration" : 10728
+      }
+    } ]
+  },
+  "66cd5eefaf3924bf157c5585174a89bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3fcc6e8d9a5016af",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/3fcc6e8d9a5016af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346500326,
+        "stop" : 1562346500582,
+        "duration" : 256
+      }
+    }, {
+      "uid" : "d7d9b68b92cc47",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/d7d9b68b92cc47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259104665,
+        "stop" : 1562259105215,
+        "duration" : 550
+      }
+    } ]
+  },
+  "d3decdcd4bd470c20bcd054468692384" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "86f6380be555851",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/86f6380be555851",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1562255237658,
+        "stop" : 1562255244386,
+        "duration" : 6728
+      }
+    }, {
+      "uid" : "929e9f9c15d691a2",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/929e9f9c15d691a2",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1562255237658,
+        "stop" : 1562255244386,
+        "duration" : 6728
+      }
+    }, {
+      "uid" : "c467a082d674e144",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/c467a082d674e144",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1562255237658,
+        "stop" : 1562255244386,
+        "duration" : 6728
+      }
+    }, {
+      "uid" : "cfd7d4e589a220c4",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/cfd7d4e589a220c4",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1562255237658,
+        "stop" : 1562255244386,
+        "duration" : 6728
+      }
+    } ]
+  },
+  "95a76aa0dae8e890a1e89265bf58b324" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b062fd9461cc90bf",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/b062fd9461cc90bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259117924,
+        "stop" : 1562259118471,
+        "duration" : 547
+      }
+    }, {
+      "uid" : "8e8aa5f7e7e9ec6e",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/8e8aa5f7e7e9ec6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259117924,
+        "stop" : 1562259118471,
+        "duration" : 547
+      }
+    } ]
+  },
+  "38a63bdc359a219cdbe9846dfc5cf26b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 9,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "705435097db294af",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/705435097db294af",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "time" : {
+        "start" : 1562164538595,
+        "stop" : 1562164538595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "51adf1bf69ef95ca",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/51adf1bf69ef95ca",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "time" : {
+        "start" : 1562164538595,
+        "stop" : 1562164538595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eb7a9991b7ed2a17",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/eb7a9991b7ed2a17",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "time" : {
+        "start" : 1562164538595,
+        "stop" : 1562164538595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6c71759554b1a90b",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/6c71759554b1a90b",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "time" : {
+        "start" : 1562164538595,
+        "stop" : 1562164538595,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "736bf307d9859562",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/7/allure/#testresult/736bf307d9859562",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('data', <FixtureRequest for <Function test_login_0_failed_by_wrong_datas>>)",
+      "time" : {
+        "start" : 1562164538595,
+        "stop" : 1562164538595,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9a67122cca3f7645bee9ba9c93eccda2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "bfd69e360e248f08",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/bfd69e360e248f08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346487457,
+        "stop" : 1562346492979,
+        "duration" : 5522
+      }
+    }, {
+      "uid" : "74665c7cfdf62c77",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/74665c7cfdf62c77",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562259065670,
+        "stop" : 1562259096195,
+        "duration" : 30525
+      }
+    }, {
+      "uid" : "1754b35cc9d835a3",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/1754b35cc9d835a3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562256430130,
+        "stop" : 1562256460750,
+        "duration" : 30620
+      }
+    } ]
+  },
+  "74cc1a15b60d9adeb5d763036bd32f21" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "7c4ba5cb755d8842",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/7c4ba5cb755d8842",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562346460226,
+        "stop" : 1562346464955,
+        "duration" : 4729
+      }
+    }, {
+      "uid" : "a72a88fd27ac3e9d",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/a72a88fd27ac3e9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562259041054,
+        "stop" : 1562259046376,
+        "duration" : 5322
+      }
+    }, {
+      "uid" : "216c2f391ea1905",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/216c2f391ea1905",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562256408886,
+        "stop" : 1562256413049,
+        "duration" : 4163
+      }
+    }, {
+      "uid" : "620a0e780c7c080",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/620a0e780c7c080",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562255224704,
+        "stop" : 1562255229760,
+        "duration" : 5056
+      }
+    }, {
+      "uid" : "ee3bde46c1af6d44",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/7/allure/#testresult/ee3bde46c1af6d44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562165410993,
+        "stop" : 1562165414977,
+        "duration" : 3984
+      }
+    } ]
+  },
+  "f5876750da3ddb5fb9b1e33a9de09d99" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "41a49bf7f9a52855",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/11/allure/#testresult/41a49bf7f9a52855",
+      "status" : "skipped",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562346537803,
+        "stop" : 1562346568931,
+        "duration" : 31128
+      }
+    }, {
+      "uid" : "4c6d26f848e80f27",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/10/allure/#testresult/4c6d26f848e80f27",
+      "status" : "skipped",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562259149387,
+        "stop" : 1562259180109,
+        "duration" : 30722
+      }
+    }, {
+      "uid" : "a91fb8e7f34f7511",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/9/allure/#testresult/a91fb8e7f34f7511",
+      "status" : "skipped",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562256486862,
+        "stop" : 1562256517639,
+        "duration" : 30777
+      }
+    }, {
+      "uid" : "e223268b560897c5",
+      "reportUrl" : "http://localhost:8080/job/ketangpai/8/allure/#testresult/e223268b560897c5",
+      "status" : "skipped",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1562255269410,
+        "stop" : 1562255300132,
+        "duration" : 30722
+      }
+    } ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "uid" : "cc5b36958fceb0a0",
+  "name" : "test_chat_fail_msg[data0]",
+  "fullName" : "TestCases.test_chat.TestChat#test_chat_fail_msg[data0]",
+  "historyId" : "9a67122cca3f7645bee9ba9c93eccda2",
+  "time" : {
+    "start" : 1562259065670,
+    "stop" : 1562259096195,
+    "duration" : 30525
+  },
+  "description" : "\n        用例描述：发送空消息\n        :param data:\n        :param login_web:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    用例描述：发送空消息\n    :param data:\n    :param login_web:\n    :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "selenium.common.exceptions.TimeoutException: Message:",
+  "statusTrace" : "self = <TestCases.test_chat.TestChat object at 0x0000017B70D1E5F8>\ndata = {'check': '私信内容不能为空', 'msg': ' '}\nlogin_web = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"99007e0693d9a73bf41d8cc09056efbf\")>\n\n    @allure.story(\"发送失败私信\")\n    @pytest.mark.parametrize(\"data\", fd)\n    def test_chat_fail_msg(self, data, login_web):\n        \"\"\"\n        用例描述：发送空消息\n        :param data:\n        :param login_web:\n        :return:\n        \"\"\"\n>       ClassList(login_web).close_alert()\n\nTestCases\\test_chat.py:42: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nPageObjects\\class_page.py:17: in close_alert\n    self.click_element(loc.alert_close_loc)\ncommon\\base_page.py:80: in click_element\n    self.wait_ele_visible(loc,img_doc,timeout,fre)\ncommon\\base_page.py:26: in wait_ele_visible\n    WebDriverWait(self.driver,timeout).until(EC.visibility_of_element_located(loc))\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"99007e0693d9a73bf41d8cc09056efbf\")>\nmethod = <selenium.webdriver.support.expected_conditions.visibility_of_element_located object at 0x0000017B70D1E898>\nmessage = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\nf:\\program files\\python37\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_web",
+    "time" : {
+      "start" : 1562259053542,
+      "stop" : 1562259054339,
+      "duration" : 797
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url",
+    "time" : {
+      "start" : 1562259048676,
+      "stop" : 1562259053542,
+      "duration" : 4866
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "login_web::0",
+    "time" : {
+      "start" : 1562259096640,
+      "stop" : 1562259096640,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "open_url::0",
+    "time" : {
+      "start" : 1562259096642,
+      "stop" : 1562259098857,
+      "duration" : 2215
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "发送失败私信"
+  }, {
+    "name" : "feature",
+    "value" : "聊天"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_chat"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChat"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F99FSHQ"
+  }, {
+    "name" : "thread",
+    "value" : "16424-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_chat"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'msg': ' ', 'check': '私信内容不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc5b36958fceb0a0.json",
+  "parameterValues" : [ "{'msg': ' ', 'check': '私信内容不能为空'}" ]
+}

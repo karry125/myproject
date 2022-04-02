@@ -1,0 +1,68 @@
+2019-07-03 22:38:38,431-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:38:38,471-common.base_page-INFO-开始时间点2019-07-03 22:38:38.437168，结束时间点2019-07-03 22:38:38.471077，等待时长0:00:00.033909
+2019-07-03 22:38:38,471-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:38:38,484-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:38:38,559-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:38:38,594-common.base_page-INFO-开始时间点2019-07-03 22:38:38.559842，结束时间点2019-07-03 22:38:38.594747，等待时长0:00:00.034905
+2019-07-03 22:38:38,595-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:38:38,609-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:38:38,667-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:38,698-common.base_page-INFO-开始时间点2019-07-03 22:38:38.667553，结束时间点2019-07-03 22:38:38.698469，等待时长0:00:00.030916
+2019-07-03 22:38:38,698-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:38,711-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:38,928-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-03 22:38:39,883-common.base_page-INFO-开始时间点2019-07-03 22:38:38.928895，结束时间点2019-07-03 22:38:39.883300，等待时长0:00:00.954405
+2019-07-03 22:38:39,883-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:38:39,896-common.base_page-INFO-点击元素('xpath', '//a[@class="close"]')
+2019-07-03 22:38:42,003-common.base_page-INFO-等待元素可见('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:38:42,056-common.base_page-INFO-开始时间点2019-07-03 22:38:42.003710，结束时间点2019-07-03 22:38:42.056566，等待时长0:00:00.052856
+2019-07-03 22:38:42,056-common.base_page-INFO-查找种的元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:38:42,069-common.base_page-INFO-点击元素('xpath', '//div[@class="ktcon1l fl"]')
+2019-07-03 22:38:42,131-common.base_page-INFO-等待元素可见('xpath', '//input[@placeholder="请输入课程加课验证码"]')
+2019-07-03 22:38:42,165-common.base_page-INFO-开始时间点2019-07-03 22:38:42.133449，结束时间点2019-07-03 22:38:42.165275，等待时长0:00:00.031826
+2019-07-03 22:38:42,165-common.base_page-INFO-查找种的元素('xpath', '//input[@placeholder="请输入课程加课验证码"]')
+2019-07-03 22:38:42,180-common.base_page-INFO-元素('xpath', '//input[@placeholder="请输入课程加课验证码"]')输入文本内容
+2019-07-03 22:38:42,235-common.base_page-INFO-等待元素可见('xpath', '//a[text()="加入"]')
+2019-07-03 22:38:42,267-common.base_page-INFO-开始时间点2019-07-03 22:38:42.235089，结束时间点2019-07-03 22:38:42.267002，等待时长0:00:00.031913
+2019-07-03 22:38:42,267-common.base_page-INFO-查找种的元素('xpath', '//a[text()="加入"]')
+2019-07-03 22:38:42,280-common.base_page-INFO-点击元素('xpath', '//a[text()="加入"]')
+2019-07-03 22:38:49,456-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:38:49,503-common.base_page-INFO-开始时间点2019-07-03 22:38:49.456918，结束时间点2019-07-03 22:38:49.503775，等待时长0:00:00.046857
+2019-07-03 22:38:49,503-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:38:49,516-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:38:49,588-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:38:49,618-common.base_page-INFO-开始时间点2019-07-03 22:38:49.588548，结束时间点2019-07-03 22:38:49.618468，等待时长0:00:00.029920
+2019-07-03 22:38:49,618-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:38:49,631-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:38:49,686-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:49,716-common.base_page-INFO-开始时间点2019-07-03 22:38:49.686286，结束时间点2019-07-03 22:38:49.716207，等待时长0:00:00.029921
+2019-07-03 22:38:49,716-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:49,728-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:38:49,789-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-03 22:38:51,510-common.base_page-INFO-开始时间点2019-07-03 22:38:49.789046，结束时间点2019-07-03 22:38:51.510652，等待时长0:00:01.721606
+2019-07-03 22:38:51,511-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:38:51,524-common.base_page-INFO-点击元素('xpath', '//a[@class="close"]')
+2019-07-03 22:38:54,640-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:38:54,672-common.base_page-INFO-开始时间点2019-07-03 22:38:54.640078，结束时间点2019-07-03 22:38:54.672919，等待时长0:00:00.032841
+2019-07-03 22:38:54,672-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:38:54,685-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:38:54,865-common.base_page-INFO-等待元素可见('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:38:56,125-common.base_page-INFO-开始时间点2019-07-03 22:38:54.865404，结束时间点2019-07-03 22:38:56.125332，等待时长0:00:01.259928
+2019-07-03 22:38:56,126-common.base_page-INFO-查找种的元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:38:56,138-common.base_page-INFO-点击元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:38:56,546-common.base_page-INFO-等待元素可见('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:38:56,582-common.base_page-INFO-开始时间点2019-07-03 22:38:56.546206，结束时间点2019-07-03 22:38:56.582111，等待时长0:00:00.035905
+2019-07-03 22:38:56,582-common.base_page-INFO-查找种的元素('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:38:56,596-common.base_page-INFO-点击元素('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:38:57,014-common.base_page-INFO-等待元素可见('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:38:57,562-common.base_page-INFO-开始时间点2019-07-03 22:38:57.014951，结束时间点2019-07-03 22:38:57.562486，等待时长0:00:00.547535
+2019-07-03 22:38:57,562-common.base_page-INFO-查找种的元素('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:38:57,575-common.base_page-INFO-点击元素('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:38:57,665-common.base_page-INFO-等待元素可见('xpath', '//textarea[@class="comment-txt"]')
+2019-07-03 22:38:57,703-common.base_page-INFO-开始时间点2019-07-03 22:38:57.665212，结束时间点2019-07-03 22:38:57.703113，等待时长0:00:00.037901
+2019-07-03 22:38:57,703-common.base_page-INFO-查找种的元素('xpath', '//textarea[@class="comment-txt"]')
+2019-07-03 22:38:57,716-common.base_page-INFO-元素('xpath', '//textarea[@class="comment-txt"]')输入文本内容
+2019-07-03 22:38:57,765-common.base_page-INFO-等待元素可见('xpath', '//a[@class="sure active"]')
+2019-07-03 22:38:57,797-common.base_page-INFO-开始时间点2019-07-03 22:38:57.766941，结束时间点2019-07-03 22:38:57.797858，等待时长0:00:00.030917
+2019-07-03 22:38:57,797-common.base_page-INFO-查找种的元素('xpath', '//a[@class="sure active"]')
+2019-07-03 22:38:57,810-common.base_page-INFO-点击元素('xpath', '//a[@class="sure active"]')

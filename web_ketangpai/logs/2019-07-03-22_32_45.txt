@@ -1,0 +1,40 @@
+2019-07-03 22:32:49,647-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 22:32:49,689-common.base_page-INFO-开始时间点2019-07-03 22:32:49.647633，结束时间点2019-07-03 22:32:49.689133，等待时长0:00:00.041500
+2019-07-03 22:32:49,689-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 22:32:49,704-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 22:32:49,836-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 22:32:49,864-common.base_page-INFO-开始时间点2019-07-03 22:32:49.836737，结束时间点2019-07-03 22:32:49.864664，等待时长0:00:00.027927
+2019-07-03 22:32:49,866-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 22:32:49,876-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 22:32:49,972-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:32:50,000-common.base_page-INFO-开始时间点2019-07-03 22:32:49.972374，结束时间点2019-07-03 22:32:50.000300，等待时长0:00:00.027926
+2019-07-03 22:32:50,000-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:32:50,012-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 22:32:50,083-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-03 22:32:51,936-common.base_page-INFO-开始时间点2019-07-03 22:32:50.084077，结束时间点2019-07-03 22:32:51.936120，等待时长0:00:01.852043
+2019-07-03 22:32:51,936-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-03 22:32:51,948-common.base_page-INFO-点击元素('xpath', '//a[@class="close"]')
+2019-07-03 22:32:55,045-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:32:55,076-common.base_page-INFO-开始时间点2019-07-03 22:32:55.045867，结束时间点2019-07-03 22:32:55.076718，等待时长0:00:00.030851
+2019-07-03 22:32:55,076-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:32:55,088-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-03 22:32:55,247-common.base_page-INFO-等待元素可见('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:32:56,365-common.base_page-INFO-开始时间点2019-07-03 22:32:55.247262，结束时间点2019-07-03 22:32:56.365270，等待时长0:00:01.118008
+2019-07-03 22:32:56,365-common.base_page-INFO-查找种的元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:32:56,375-common.base_page-INFO-点击元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-03 22:32:56,791-common.base_page-INFO-等待元素可见('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:32:56,838-common.base_page-INFO-开始时间点2019-07-03 22:32:56.792127，结束时间点2019-07-03 22:32:56.838005，等待时长0:00:00.045878
+2019-07-03 22:32:56,838-common.base_page-INFO-查找种的元素('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:32:56,852-common.base_page-INFO-点击元素('xpath', '//a[text()="作业讨论"]')
+2019-07-03 22:32:57,211-common.base_page-INFO-等待元素可见('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:32:57,761-common.base_page-INFO-开始时间点2019-07-03 22:32:57.212199，结束时间点2019-07-03 22:32:57.760732，等待时长0:00:00.548533
+2019-07-03 22:32:57,761-common.base_page-INFO-查找种的元素('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:32:57,771-common.base_page-INFO-点击元素('xpath', '//div[@class="input-click clearfix"]//p')
+2019-07-03 22:32:57,858-common.base_page-INFO-等待元素可见('xpath', '//textarea[@class="comment-txt"]')
+2019-07-03 22:32:57,902-common.base_page-INFO-开始时间点2019-07-03 22:32:57.859468，结束时间点2019-07-03 22:32:57.902352，等待时长0:00:00.042884
+2019-07-03 22:32:57,902-common.base_page-INFO-查找种的元素('xpath', '//textarea[@class="comment-txt"]')
+2019-07-03 22:32:57,913-common.base_page-INFO-元素('xpath', '//textarea[@class="comment-txt"]')输入文本内容
+2019-07-03 22:32:57,975-common.base_page-INFO-等待元素可见('xpath', '//a[@class="sure active"]')
+2019-07-03 22:32:58,007-common.base_page-INFO-开始时间点2019-07-03 22:32:57.976157，结束时间点2019-07-03 22:32:58.007089，等待时长0:00:00.030932
+2019-07-03 22:32:58,007-common.base_page-INFO-查找种的元素('xpath', '//a[@class="sure active"]')
+2019-07-03 22:32:58,018-common.base_page-INFO-点击元素('xpath', '//a[@class="sure active"]')

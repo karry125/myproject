@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-F99FSHQ",
+    "children" : [ {
+      "name" : "16864-MainThread",
+      "children" : [ {
+        "name" : "test_02",
+        "uid" : "ab720160d8d7f402",
+        "parentUid" : "032eefa90a9e6ec10c972de21d37b0a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561478155296,
+          "stop" : 1561478158442,
+          "duration" : 3146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "41dc3f1728a7fefa",
+        "parentUid" : "032eefa90a9e6ec10c972de21d37b0a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561478147156,
+          "stop" : 1561478150348,
+          "duration" : 3192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "032eefa90a9e6ec10c972de21d37b0a9"
+    } ],
+    "uid" : "ef7bc34e24ebc36e49c3686d2249bb41"
+  } ]
+}

@@ -1,0 +1,76 @@
+[ {
+  "buildOrder" : 35,
+  "reportUrl" : "http://localhost:8080/job/alluretest/35/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 34,
+  "reportUrl" : "http://localhost:8080/job/alluretest/34/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 33,
+  "reportUrl" : "http://localhost:8080/job/alluretest/33/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 32,
+  "reportUrl" : "http://localhost:8080/job/alluretest/32/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 31,
+  "reportUrl" : "http://localhost:8080/job/alluretest/31/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "http://localhost:8080/job/alluretest/30/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 29,
+  "reportUrl" : "http://localhost:8080/job/alluretest/29/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 28,
+  "reportUrl" : "http://localhost:8080/job/alluretest/28/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:8080/job/alluretest/27/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/alluretest/26/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/alluretest/25/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/alluretest/24/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/alluretest/23/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/alluretest/22/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "http://localhost:8080/job/alluretest/21/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

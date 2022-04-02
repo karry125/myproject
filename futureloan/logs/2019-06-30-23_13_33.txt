@@ -1,0 +1,16 @@
+2019-06-30 23:13:39,494-common.base_page-INFO-等待元素可见('xpath', '//input[@name="phone"]')
+2019-06-30 23:13:39,546-common.base_page-INFO-开始时间点2019-06-30 23:13:39.495200，结束时间点2019-06-30 23:13:39.545930，等待时长0:00:00.050730
+2019-06-30 23:13:39,546-common.base_page-INFO-查找种的元素('xpath', '//input[@name="phone"]')
+2019-06-30 23:13:39,564-common.base_page-INFO-元素('xpath', '//input[@name="phone"]')输入文本内容
+2019-06-30 23:13:39,775-common.base_page-INFO-等待元素可见('xpath', '//input[@name="password"]')
+2019-06-30 23:13:39,844-common.base_page-INFO-开始时间点2019-06-30 23:13:39.775319，结束时间点2019-06-30 23:13:39.844130，等待时长0:00:00.068811
+2019-06-30 23:13:39,845-common.base_page-INFO-查找种的元素('xpath', '//input[@name="password"]')
+2019-06-30 23:13:39,865-common.base_page-INFO-元素('xpath', '//input[@name="password"]')输入文本内容
+2019-06-30 23:13:39,967-common.base_page-INFO-等待元素可见('tag name', 'button')
+2019-06-30 23:13:40,003-common.base_page-INFO-开始时间点2019-06-30 23:13:39.967799，结束时间点2019-06-30 23:13:40.003708，等待时长0:00:00.035909
+2019-06-30 23:13:40,004-common.base_page-INFO-查找登录页面_点击登录按钮种的元素('tag name', 'button')
+2019-06-30 23:13:40,018-common.base_page-INFO-点击元素('tag name', 'button')
+2019-06-30 23:14:47,588-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-06-30 23:14:47,633-common.base_page-INFO-开始时间点2019-06-30 23:14:47.589644，结束时间点2019-06-30 23:14:47.633527，等待时长0:00:00.043883
+2019-06-30 23:14:47,633-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//span[@class="mo_span4"]')
+2019-06-30 23:14:47,655-common.base_page-INFO-获取元素('xpath', '//span[@class="mo_span4"]')属性data-left值为：None

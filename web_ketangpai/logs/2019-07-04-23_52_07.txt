@@ -1,0 +1,24 @@
+2019-07-04 23:52:13,412-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-04 23:52:13,451-common.base_page-INFO-开始时间点2019-07-04 23:52:13.412793，结束时间点2019-07-04 23:52:13.451540，等待时长0:00:00.038747
+2019-07-04 23:52:13,452-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-04 23:52:13,467-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-04 23:52:13,618-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-04 23:52:13,651-common.base_page-INFO-开始时间点2019-07-04 23:52:13.619090，结束时间点2019-07-04 23:52:13.651005，等待时长0:00:00.031915
+2019-07-04 23:52:13,652-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-04 23:52:13,663-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-04 23:52:13,741-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-04 23:52:13,767-common.base_page-INFO-开始时间点2019-07-04 23:52:13.741762，结束时间点2019-07-04 23:52:13.767693，等待时长0:00:00.025931
+2019-07-04 23:52:13,768-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-04 23:52:13,778-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-04 23:52:13,845-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-04 23:52:19,778-common.base_page-INFO-开始时间点2019-07-04 23:52:13.845606，结束时间点2019-07-04 23:52:19.778901，等待时长0:00:05.933295
+2019-07-04 23:52:19,778-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-04 23:52:19,798-common.base_page-INFO-点击元素('xpath', '//a[@class="close"]')
+2019-07-04 23:52:23,824-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 23:52:23,853-common.base_page-INFO-开始时间点2019-07-04 23:52:23.824337，结束时间点2019-07-04 23:52:23.853259，等待时长0:00:00.028922
+2019-07-04 23:52:23,853-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 23:52:23,864-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 23:52:24,067-common.base_page-INFO-等待元素可见('xpath', '//li[@class="li5"]//a[text()="同学"]')
+2019-07-04 23:52:25,357-common.base_page-INFO-开始时间点2019-07-04 23:52:24.067126，结束时间点2019-07-04 23:52:25.357235，等待时长0:00:01.290109
+2019-07-04 23:52:25,357-common.base_page-INFO-查找种的元素('xpath', '//li[@class="li5"]//a[text()="同学"]')
+2019-07-04 23:52:25,369-common.base_page-INFO-点击元素('xpath', '//li[@class="li5"]//a[text()="同学"]')

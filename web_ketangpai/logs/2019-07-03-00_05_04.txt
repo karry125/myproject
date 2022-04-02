@@ -1,0 +1,22 @@
+2019-07-03 00:05:09,222-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-03 00:05:09,261-common.base_page-INFO-开始时间点2019-07-03 00:05:09.222157，结束时间点2019-07-03 00:05:09.261052，等待时长0:00:00.038895
+2019-07-03 00:05:09,261-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-03 00:05:09,276-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-03 00:05:09,424-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-03 00:05:09,454-common.base_page-INFO-开始时间点2019-07-03 00:05:09.424615，结束时间点2019-07-03 00:05:09.454534，等待时长0:00:00.029919
+2019-07-03 00:05:09,455-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-03 00:05:09,468-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-03 00:05:09,562-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:05:09,605-common.base_page-INFO-开始时间点2019-07-03 00:05:09.562247，结束时间点2019-07-03 00:05:09.605132，等待时长0:00:00.042885
+2019-07-03 00:05:09,605-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:05:09,618-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-03 00:05:09,690-common.base_page-INFO-查找种的元素<class 'PageLocaters.class_page_locator.ClassLocator'>
+2019-07-03 00:05:09,690-common.base_page-ERROR-查找元素失败
+Traceback (most recent call last):
+  File "F:\MyProject\web_ketangpai\common\base_page.py", line 42, in get_element
+    ele = self.driver.find_element(*loc) # 解包两个值
+TypeError: find_element() argument after * must be an iterable, not type
+2019-07-03 00:05:10,982-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_05_09.png
+2019-07-03 00:05:10,983-common.base_page-INFO-等待元素可见('xpath', '//h3[@class="work-title "]')
+2019-07-03 00:05:41,400-common.base_page-ERROR-等待元素可见失败
+2019-07-03 00:05:41,822-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-03 00_05_41.png

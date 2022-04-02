@@ -1,0 +1,20 @@
+2019-06-30 23:20:36,039-common.base_page-INFO-等待元素可见('xpath', '//input[@name="phone"]')
+2019-06-30 23:20:36,113-common.base_page-INFO-开始时间点2019-06-30 23:20:36.039463，结束时间点2019-06-30 23:20:36.113323，等待时长0:00:00.073860
+2019-06-30 23:20:36,113-common.base_page-INFO-查找种的元素('xpath', '//input[@name="phone"]')
+2019-06-30 23:20:36,143-common.base_page-INFO-元素('xpath', '//input[@name="phone"]')输入文本内容
+2019-06-30 23:20:36,438-common.base_page-INFO-等待元素可见('xpath', '//input[@name="password"]')
+2019-06-30 23:20:36,472-common.base_page-INFO-开始时间点2019-06-30 23:20:36.439790，结束时间点2019-06-30 23:20:36.472702，等待时长0:00:00.032912
+2019-06-30 23:20:36,474-common.base_page-INFO-查找种的元素('xpath', '//input[@name="password"]')
+2019-06-30 23:20:36,489-common.base_page-INFO-元素('xpath', '//input[@name="password"]')输入文本内容
+2019-06-30 23:20:36,570-common.base_page-INFO-等待元素可见('tag name', 'button')
+2019-06-30 23:20:36,614-common.base_page-INFO-开始时间点2019-06-30 23:20:36.570442，结束时间点2019-06-30 23:20:36.614323，等待时长0:00:00.043881
+2019-06-30 23:20:36,614-common.base_page-INFO-查找登录页面_点击登录按钮种的元素('tag name', 'button')
+2019-06-30 23:20:36,629-common.base_page-INFO-点击元素('tag name', 'button')
+2019-06-30 23:21:46,194-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-06-30 23:21:46,232-common.base_page-INFO-开始时间点2019-06-30 23:21:46.194004，结束时间点2019-06-30 23:21:46.232894，等待时长0:00:00.038890
+2019-06-30 23:21:46,232-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//span[@class="mo_span4"]')
+2019-06-30 23:21:46,257-common.base_page-INFO-获取元素('xpath', '//span[@class="mo_span4"]')属性data-left值为：None
+2019-06-30 23:21:46,257-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-06-30 23:21:46,297-common.base_page-INFO-开始时间点2019-06-30 23:21:46.258859，结束时间点2019-06-30 23:21:46.297723，等待时长0:00:00.038864
+2019-06-30 23:21:46,298-common.base_page-INFO-查找标页面_获取用户余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-06-30 23:21:46,329-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-amount值为：454144.76

@@ -1,0 +1,44 @@
+2019-07-04 21:38:01,620-common.base_page-INFO-等待元素可见('xpath', '//input[@name="account"]')
+2019-07-04 21:38:01,674-common.base_page-INFO-开始时间点2019-07-04 21:38:01.622004，结束时间点2019-07-04 21:38:01.674006，等待时长0:00:00.052002
+2019-07-04 21:38:01,676-common.base_page-INFO-查找用户输入框种的元素('xpath', '//input[@name="account"]')
+2019-07-04 21:38:01,697-common.base_page-INFO-元素('xpath', '//input[@name="account"]')输入文本内容
+2019-07-04 21:38:01,861-common.base_page-INFO-等待元素可见('xpath', '//input[@name="pass"]')
+2019-07-04 21:38:01,897-common.base_page-INFO-开始时间点2019-07-04 21:38:01.862656，结束时间点2019-07-04 21:38:01.896798，等待时长0:00:00.034142
+2019-07-04 21:38:01,898-common.base_page-INFO-查找密码框种的元素('xpath', '//input[@name="pass"]')
+2019-07-04 21:38:01,915-common.base_page-INFO-元素('xpath', '//input[@name="pass"]')输入文本内容
+2019-07-04 21:38:02,025-common.base_page-INFO-等待元素可见('xpath', '//a[@class="btn-btn"]')
+2019-07-04 21:38:02,065-common.base_page-INFO-开始时间点2019-07-04 21:38:02.025843，结束时间点2019-07-04 21:38:02.064492，等待时长0:00:00.038649
+2019-07-04 21:38:02,065-common.base_page-INFO-查找登录框种的元素('xpath', '//a[@class="btn-btn"]')
+2019-07-04 21:38:02,079-common.base_page-INFO-点击元素('xpath', '//a[@class="btn-btn"]')
+2019-07-04 21:38:02,154-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-04 21:38:03,728-common.base_page-INFO-开始时间点2019-07-04 21:38:02.154529，结束时间点2019-07-04 21:38:03.728176，等待时长0:00:01.573647
+2019-07-04 21:38:03,728-common.base_page-INFO-查找种的元素('xpath', '//a[@class="close"]')
+2019-07-04 21:38:03,745-common.base_page-INFO-点击元素('xpath', '//a[@class="close"]')
+2019-07-04 21:38:06,982-common.base_page-INFO-等待元素可见('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 21:38:07,031-common.base_page-INFO-开始时间点2019-07-04 21:38:06.982744，结束时间点2019-07-04 21:38:07.031185，等待时长0:00:00.048441
+2019-07-04 21:38:07,031-common.base_page-INFO-查找种的元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 21:38:07,048-common.base_page-INFO-点击元素('xpath', '//dt[contains(@class,"bgclass")]//strong//a')
+2019-07-04 21:38:07,241-common.base_page-INFO-等待元素可见('xpath', '//h3[@class="work-title "]//a')
+2019-07-04 21:38:08,450-common.base_page-INFO-开始时间点2019-07-04 21:38:07.241389，结束时间点2019-07-04 21:38:08.450118，等待时长0:00:01.208729
+2019-07-04 21:38:08,450-common.base_page-INFO-查找种的元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-04 21:38:08,462-common.base_page-INFO-点击元素('xpath', '//h3[@class="work-title "]//a')
+2019-07-04 21:38:08,968-common.base_page-INFO-等待元素可见('xpath', '//a[contains(@class,"new-tj1")]')
+2019-07-04 21:38:09,583-common.base_page-INFO-开始时间点2019-07-04 21:38:08.968340，结束时间点2019-07-04 21:38:09.583873，等待时长0:00:00.615533
+2019-07-04 21:38:09,584-common.base_page-INFO-查找种的元素('xpath', '//a[contains(@class,"new-tj1")]')
+2019-07-04 21:38:09,616-common.base_page-INFO-点击元素('xpath', '//a[contains(@class,"new-tj1")]')
+2019-07-04 21:38:09,875-common.base_page-INFO-等待元素可见('xpath', '//div[@id="update-pop"]//a[contains(@class,"sure")]')
+2019-07-04 21:38:09,977-common.base_page-INFO-开始时间点2019-07-04 21:38:09.875547，结束时间点2019-07-04 21:38:09.977548，等待时长0:00:00.102001
+2019-07-04 21:38:09,977-common.base_page-INFO-查找种的元素('xpath', '//div[@id="update-pop"]//a[contains(@class,"sure")]')
+2019-07-04 21:38:10,013-common.base_page-INFO-点击元素('xpath', '//div[@id="update-pop"]//a[contains(@class,"sure")]')
+2019-07-04 21:38:10,146-common.base_page-INFO-等待元素可见('xpath', '//a[@class="sc-btn webuploader-container"]')
+2019-07-04 21:38:10,207-common.base_page-INFO-开始时间点2019-07-04 21:38:10.146385，结束时间点2019-07-04 21:38:10.207998，等待时长0:00:00.061613
+2019-07-04 21:38:10,208-common.base_page-INFO-查找种的元素('xpath', '//a[@class="sc-btn webuploader-container"]')
+2019-07-04 21:38:10,228-common.base_page-INFO-点击元素('xpath', '//a[@class="sc-btn webuploader-container"]')
+2019-07-04 21:38:13,736-common.base_page-INFO-等待元素可见('xpath', '//a[contains(@class,"new-tj2")]')
+2019-07-04 21:38:13,798-common.base_page-INFO-开始时间点2019-07-04 21:38:13.736623，结束时间点2019-07-04 21:38:13.798457，等待时长0:00:00.061834
+2019-07-04 21:38:13,799-common.base_page-INFO-查找种的元素('xpath', '//a[contains(@class,"new-tj2")]')
+2019-07-04 21:38:13,825-common.base_page-INFO-点击元素('xpath', '//a[contains(@class,"new-tj2")]')
+2019-07-04 21:38:14,043-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')
+2019-07-04 21:38:44,577-common.base_page-ERROR-等待元素可见失败
+2019-07-04 21:38:45,120-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\web_ketangpai\screenshots/_2019-07-04 21_38_44.png
+2019-07-04 21:38:45,422-common.base_page-INFO-等待元素可见('xpath', '//a[@class="close"]')

@@ -1,0 +1,191 @@
+[ {
+  "uid" : "bfd69e360e248f08",
+  "name" : "test_chat_fail_msg[data0]",
+  "time" : {
+    "start" : 1562346487457,
+    "stop" : 1562346492979,
+    "duration" : 5522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a49cb282ca907daa",
+  "name" : "test_login_0_failed_by_wrong_datas[data2]",
+  "time" : {
+    "start" : 1562346500957,
+    "stop" : 1562346501714,
+    "duration" : 757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6510da9f026d1ef",
+  "name" : "test_logins_0_failed_by_wrong_datas[data2]",
+  "time" : {
+    "start" : 1562259118706,
+    "stop" : 1562259119759,
+    "duration" : 1053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4ba5cb755d8842",
+  "name" : "test_add_sucess_class",
+  "time" : {
+    "start" : 1562346460226,
+    "stop" : 1562346464955,
+    "duration" : 4729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4a7801cca059754",
+  "name" : "test_chat_msg[test]",
+  "time" : {
+    "start" : 1562346480920,
+    "stop" : 1562346487352,
+    "duration" : 6432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a30bd8aa546e772",
+  "name" : "test_logins_0_failed_by_wrong_datas[data3]",
+  "time" : {
+    "start" : 1562259119956,
+    "stop" : 1562259120606,
+    "duration" : 650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fe94309cf73d676",
+  "name" : "test_login_0_failed_by_wrong_datas[data0]",
+  "time" : {
+    "start" : 1562346499776,
+    "stop" : 1562346500052,
+    "duration" : 276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74ff2b60f91868bc",
+  "name" : "test_add_comment",
+  "time" : {
+    "start" : 1562346569031,
+    "stop" : 1562346571459,
+    "duration" : 2428
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e25ace05b6e0aa7",
+  "name" : "test_login_0_failed_by_wrong_datas[data3]",
+  "time" : {
+    "start" : 1562346501926,
+    "stop" : 1562346502154,
+    "duration" : 228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "452490af65a2549c",
+  "name" : "test_upload",
+  "time" : {
+    "start" : 1562346521564,
+    "stop" : 1562346537773,
+    "duration" : 16209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fcc6e8d9a5016af",
+  "name" : "test_login_0_failed_by_wrong_datas[data1]",
+  "time" : {
+    "start" : 1562346500326,
+    "stop" : 1562346500582,
+    "duration" : 256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86f6380be555851",
+  "name" : "test_chat_msg[data0]",
+  "time" : {
+    "start" : 1562255237658,
+    "stop" : 1562255244386,
+    "duration" : 6728
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ec5964a5eac0a34b",
+  "name" : "test_login_2_success_login",
+  "time" : {
+    "start" : 1562259120782,
+    "stop" : 1562259121399,
+    "duration" : 617
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a615528b667c1e14",
+  "name" : "test_login_2_success_login",
+  "time" : {
+    "start" : 1562346502460,
+    "stop" : 1562346504766,
+    "duration" : 2306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41a49bf7f9a52855",
+  "name" : "test_add_msg",
+  "time" : {
+    "start" : 1562346537803,
+    "stop" : 1562346568931,
+    "duration" : 31128
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "705435097db294af",
+  "name" : "test_login_0_failed_by_wrong_datas",
+  "time" : {
+    "start" : 1562164538595,
+    "stop" : 1562164538595,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4833ac54d81acdd8",
+  "name" : "test_login_1_failed_by_fail_datas",
+  "time" : {
+    "start" : 1562164725549,
+    "stop" : 1562164725549,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "77f82ec7c2194a0a",
+  "name" : "test_logins_0_failed_by_wrong_datas[data0]",
+  "time" : {
+    "start" : 1562259117092,
+    "stop" : 1562259117746,
+    "duration" : 654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b062fd9461cc90bf",
+  "name" : "test_logins_0_failed_by_wrong_datas[data1]",
+  "time" : {
+    "start" : 1562259117924,
+    "stop" : 1562259118471,
+    "duration" : 547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

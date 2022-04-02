@@ -1,0 +1,66 @@
+2019-07-01 23:33:53,385-common.base_page-INFO-等待元素可见('xpath', '//input[@name="phone"]')
+2019-07-01 23:33:53,420-common.base_page-INFO-开始时间点2019-07-01 23:33:53.385155，结束时间点2019-07-01 23:33:53.420060，等待时长0:00:00.034905
+2019-07-01 23:33:53,420-common.base_page-INFO-查找种的元素('xpath', '//input[@name="phone"]')
+2019-07-01 23:33:53,432-common.base_page-INFO-元素('xpath', '//input[@name="phone"]')输入文本内容
+2019-07-01 23:33:53,644-common.base_page-INFO-等待元素可见('xpath', '//input[@name="password"]')
+2019-07-01 23:33:53,672-common.base_page-INFO-开始时间点2019-07-01 23:33:53.644721，结束时间点2019-07-01 23:33:53.672641，等待时长0:00:00.027920
+2019-07-01 23:33:53,673-common.base_page-INFO-查找种的元素('xpath', '//input[@name="password"]')
+2019-07-01 23:33:53,683-common.base_page-INFO-元素('xpath', '//input[@name="password"]')输入文本内容
+2019-07-01 23:33:53,754-common.base_page-INFO-等待元素可见('tag name', 'button')
+2019-07-01 23:33:53,780-common.base_page-INFO-开始时间点2019-07-01 23:33:53.755419，结束时间点2019-07-01 23:33:53.780353，等待时长0:00:00.024934
+2019-07-01 23:33:53,780-common.base_page-INFO-查找登录页面_点击登录按钮种的元素('tag name', 'button')
+2019-07-01 23:33:53,789-common.base_page-INFO-点击元素('tag name', 'button')
+2019-07-01 23:35:01,458-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-07-01 23:35:01,495-common.base_page-INFO-开始时间点2019-07-01 23:35:01.459299，结束时间点2019-07-01 23:35:01.495174，等待时长0:00:00.035875
+2019-07-01 23:35:01,495-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:01,513-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-left值为：9962600
+2019-07-01 23:35:01,513-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:01,536-common.base_page-INFO-开始时间点2019-07-01 23:35:01.513168，结束时间点2019-07-01 23:35:01.536107，等待时长0:00:00.022939
+2019-07-01 23:35:01,536-common.base_page-INFO-查找标页面_获取用户余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:01,552-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-amount值为：454044.76
+2019-07-01 23:35:01,553-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:01,573-common.base_page-INFO-开始时间点2019-07-01 23:35:01.553032，结束时间点2019-07-01 23:35:01.573965，等待时长0:00:00.020933
+2019-07-01 23:35:01,573-common.base_page-INFO-查找种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:01,583-common.base_page-INFO-元素('xpath', '//input[@class="form-control invest-unit-investinput"]')输入文本内容
+2019-07-01 23:35:06,633-common.base_page-INFO-等待元素可见('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:06,665-common.base_page-INFO-开始时间点2019-07-01 23:35:06.633428，结束时间点2019-07-01 23:35:06.665342，等待时长0:00:00.031914
+2019-07-01 23:35:06,665-common.base_page-INFO-查找种的元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:06,675-common.base_page-INFO-点击元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:06,708-common.base_page-ERROR-点击元素失败
+2019-07-01 23:35:07,128-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\futureloan\screenshots/_2019-07-01 23_35_06.png
+2019-07-01 23:35:30,120-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-07-01 23:35:30,151-common.base_page-INFO-开始时间点2019-07-01 23:35:30.120587，结束时间点2019-07-01 23:35:30.151516，等待时长0:00:00.030929
+2019-07-01 23:35:30,151-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:30,171-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-left值为：9962600
+2019-07-01 23:35:30,171-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:30,192-common.base_page-INFO-开始时间点2019-07-01 23:35:30.171479，结束时间点2019-07-01 23:35:30.192393，等待时长0:00:00.020914
+2019-07-01 23:35:30,193-common.base_page-INFO-查找标页面_获取用户余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:30,209-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-amount值为：454044.76
+2019-07-01 23:35:30,209-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:30,228-common.base_page-INFO-开始时间点2019-07-01 23:35:30.209362，结束时间点2019-07-01 23:35:30.228296，等待时长0:00:00.018934
+2019-07-01 23:35:30,229-common.base_page-INFO-查找种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:30,239-common.base_page-INFO-元素('xpath', '//input[@class="form-control invest-unit-investinput"]')输入文本内容
+2019-07-01 23:35:35,317-common.base_page-INFO-等待元素可见('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:35,347-common.base_page-INFO-开始时间点2019-07-01 23:35:35.317688，结束时间点2019-07-01 23:35:35.347600，等待时长0:00:00.029912
+2019-07-01 23:35:35,347-common.base_page-INFO-查找种的元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:35,356-common.base_page-INFO-点击元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:35:35,389-common.base_page-ERROR-点击元素失败
+2019-07-01 23:35:35,757-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\futureloan\screenshots/_2019-07-01 23_35_35.png
+2019-07-01 23:35:58,421-common.base_page-INFO-等待元素可见('xpath', '//span[@class="mo_span4"]')
+2019-07-01 23:35:58,468-common.base_page-INFO-开始时间点2019-07-01 23:35:58.421197，结束时间点2019-07-01 23:35:58.468034，等待时长0:00:00.046837
+2019-07-01 23:35:58,468-common.base_page-INFO-查找标页面_获取标余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:58,491-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-left值为：9962600
+2019-07-01 23:35:58,493-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:58,536-common.base_page-INFO-开始时间点2019-07-01 23:35:58.493015，结束时间点2019-07-01 23:35:58.536849，等待时长0:00:00.043834
+2019-07-01 23:35:58,536-common.base_page-INFO-查找标页面_获取用户余额种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:58,553-common.base_page-INFO-获取元素('xpath', '//input[@class="form-control invest-unit-investinput"]')属性data-amount值为：454044.76
+2019-07-01 23:35:58,553-common.base_page-INFO-等待元素可见('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:58,576-common.base_page-INFO-开始时间点2019-07-01 23:35:58.553804，结束时间点2019-07-01 23:35:58.576743，等待时长0:00:00.022939
+2019-07-01 23:35:58,576-common.base_page-INFO-查找种的元素('xpath', '//input[@class="form-control invest-unit-investinput"]')
+2019-07-01 23:35:58,586-common.base_page-INFO-元素('xpath', '//input[@class="form-control invest-unit-investinput"]')输入文本内容
+2019-07-01 23:36:03,645-common.base_page-INFO-等待元素可见('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:36:03,686-common.base_page-INFO-开始时间点2019-07-01 23:36:03.645184，结束时间点2019-07-01 23:36:03.686072，等待时长0:00:00.040888
+2019-07-01 23:36:03,686-common.base_page-INFO-查找种的元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:36:03,696-common.base_page-INFO-点击元素('xpath', '//button[@class="btn btn-special height_style"]')
+2019-07-01 23:36:03,728-common.base_page-ERROR-点击元素失败
+2019-07-01 23:36:04,131-common.base_page-INFO-网页截图成功。图片存储在：F:\MyProject\futureloan\screenshots/_2019-07-01 23_36_03.png
